@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<instrument name="splash">
+  <samples>
+    <sample name="splash-01">
+      <audiofile channel="splash L" file="../../Wav/CZildjnA8-Dyn01.wav" filechannel="1"/>
+      <audiofile channel="splash R" file="../../Wav/CZildjnA8-Dyn01.wav" filechannel="2"/>
+    </sample>
+    <sample name="splash-02">
+      <audiofile channel="splash L" file="../../Wav/CZildjnA8-Dyn02.wav" filechannel="1"/>
+      <audiofile channel="splash R" file="../../Wav/CZildjnA8-Dyn02.wav" filechannel="2"/>
+    </sample>
+    <sample name="splash-03">
+      <audiofile channel="splash L" file="../../Wav/CZildjnA8-Dyn03.wav" filechannel="1"/>
+      <audiofile channel="splash R" file="../../Wav/CZildjnA8-Dyn03.wav" filechannel="2"/>
+    </sample>
+    <sample name="splash-04">
+      <audiofile channel="splash L" file="../../Wav/CZildjnA8-Dyn04.wav" filechannel="1"/>
+      <audiofile channel="splash R" file="../../Wav/CZildjnA8-Dyn04.wav" filechannel="2"/>
+    </sample>
+    <sample name="splash-05">
+      <audiofile channel="splash L" file="../../Wav/CZildjnA8-Dyn05.wav" filechannel="1"/>
+      <audiofile channel="splash R" file="../../Wav/CZildjnA8-Dyn05.wav" filechannel="2"/>
+    </sample>
+    <sample name="splash-06">
+      <audiofile channel="splash L" file="../../Wav/CZildjnA8-Dyn06.wav" filechannel="1"/>
+      <audiofile channel="splash R" file="../../Wav/CZildjnA8-Dyn06.wav" filechannel="2"/>
+    </sample>
+    <sample name="splash-07">
+      <audiofile channel="splash L" file="../../Wav/CZildjnA8-Dyn07.wav" filechannel="1"/>
+      <audiofile channel="splash R" file="../../Wav/CZildjnA8-Dyn07.wav" filechannel="2"/>
+    </sample>
+    <sample name="splash-08">
+      <audiofile channel="splash L" file="../../Wav/CZildjnA8-Dyn08.wav" filechannel="1"/>
+      <audiofile channel="splash R" file="../../Wav/CZildjnA8-Dyn08.wav" filechannel="2"/>
+    </sample>
+  </samples>
+  <velocities>
+    <!-- 8 layers linear -->
+    <velocity lower="0" upper="0.125">
+      <sampleref probability="1.0" name="splash-01"/>
+    </velocity>
+    <velocity lower="0.125" upper="0.25">
+      <sampleref probability="1.0" name="splash-02"/>
+    </velocity>
+    <velocity lower="0.25" upper="0.375">
+      <sampleref probability="1.0" name="splash-03"/>
+    </velocity>
+    <velocity lower="0.375" upper="0.5">
+      <sampleref probability="1.0" name="splash-04"/>
+    </velocity>
+    <velocity lower="0.5" upper="0.625">
+      <sampleref probability="1.0" name="splash-05"/>
+    </velocity>
+    <velocity lower="0.625" upper="0.75">
+      <sampleref probability="1.0" name="splash-06"/>
+    </velocity>
+    <velocity lower="0.75" upper="0.875">
+      <sampleref probability="1.0" name="splash-07"/>
+    </velocity>
+    <velocity lower="0.875" upper="1.0">
+      <sampleref probability="1.0" name="splash-08"/>
+    </velocity>
+  </velocities>
+</instrument>

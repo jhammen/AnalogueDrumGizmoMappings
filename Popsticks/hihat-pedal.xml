@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<instrument name="hihat-pedal">
+  <samples>
+    <sample name="hihat-pedal-01">
+      <audiofile channel="hihat-pedal L" file="../../Wav/CZildjnK14-Ped01.wav" filechannel="1"/>
+      <audiofile channel="hihat-pedal R" file="../../Wav/CZildjnK14-Ped01.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-pedal-02">
+      <audiofile channel="hihat-pedal L" file="../../Wav/CZildjnK14-Ped02.wav" filechannel="1"/>
+      <audiofile channel="hihat-pedal R" file="../../Wav/CZildjnK14-Ped02.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-pedal-03">
+      <audiofile channel="hihat-pedal L" file="../../Wav/CZildjnK14-Ped03.wav" filechannel="1"/>
+      <audiofile channel="hihat-pedal R" file="../../Wav/CZildjnK14-Ped03.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-pedal-04">
+      <audiofile channel="hihat-pedal L" file="../../Wav/CZildjnK14-Ped04.wav" filechannel="1"/>
+      <audiofile channel="hihat-pedal R" file="../../Wav/CZildjnK14-Ped04.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-pedal-05">
+      <audiofile channel="hihat-pedal L" file="../../Wav/CZildjnK14-Ped05.wav" filechannel="1"/>
+      <audiofile channel="hihat-pedal R" file="../../Wav/CZildjnK14-Ped05.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-pedal-06">
+      <audiofile channel="hihat-pedal L" file="../../Wav/CZildjnK14-Ped06.wav" filechannel="1"/>
+      <audiofile channel="hihat-pedal R" file="../../Wav/CZildjnK14-Ped06.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-pedal-07">
+      <audiofile channel="hihat-pedal L" file="../../Wav/CZildjnK14-Ped07.wav" filechannel="1"/>
+      <audiofile channel="hihat-pedal R" file="../../Wav/CZildjnK14-Ped07.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-pedal-08">
+      <audiofile channel="hihat-pedal L" file="../../Wav/CZildjnK14-Ped08.wav" filechannel="1"/>
+      <audiofile channel="hihat-pedal R" file="../../Wav/CZildjnK14-Ped08.wav" filechannel="2"/>
+    </sample>
+  </samples>
+  <!-- 8 layers linear -->
+  <velocities>
+    <velocity lower="0" upper="0.125">
+      <sampleref probability="1.0" name="hihat-pedal-01"/>
+    </velocity>
+    <velocity lower="0.125" upper="0.25">
+      <sampleref probability="1.0" name="hihat-pedal-02"/>
+    </velocity>
+    <velocity lower="0.25" upper="0.375">
+      <sampleref probability="1.0" name="hihat-pedal-03"/>
+    </velocity>
+    <velocity lower="0.375" upper="0.5">
+      <sampleref probability="1.0" name="hihat-pedal-04"/>
+    </velocity>
+    <velocity lower="0.5" upper="0.625">
+      <sampleref probability="1.0" name="hihat-pedal-05"/>
+    </velocity>
+    <velocity lower="0.625" upper="0.75">
+      <sampleref probability="1.0" name="hihat-pedal-06"/>
+    </velocity>
+    <velocity lower="0.75" upper="0.875">
+      <sampleref probability="1.0" name="hihat-pedal-07"/>
+    </velocity>
+    <velocity lower="0.875" upper="1.0">
+      <sampleref probability="1.0" name="hihat-pedal-08"/>
+    </velocity>
+  </velocities>
+</instrument>

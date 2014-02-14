@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<instrument name="kick">
+  <samples>
+    <sample name="kick-01">
+      <audiofile channel="kick L" file="../../Wav/CSlingerLndKick22-Dyn01.wav" filechannel="1"/>
+      <audiofile channel="kick R" file="../../Wav/CSlingerLndKick22-Dyn01.wav" filechannel="2"/>
+    </sample>
+    <sample name="kick-02">
+      <audiofile channel="kick L" file="../../Wav/CSlingerLndKick22-Dyn02.wav" filechannel="1"/>
+      <audiofile channel="kick R" file="../../Wav/CSlingerLndKick22-Dyn02.wav" filechannel="2"/>
+    </sample>
+    <sample name="kick-03">
+      <audiofile channel="kick L" file="../../Wav/CSlingerLndKick22-Dyn03.wav" filechannel="1"/>
+      <audiofile channel="kick R" file="../../Wav/CSlingerLndKick22-Dyn03.wav" filechannel="2"/>
+    </sample>
+    <sample name="kick-04">
+      <audiofile channel="kick L" file="../../Wav/CSlingerLndKick22-Dyn04.wav" filechannel="1"/>
+      <audiofile channel="kick R" file="../../Wav/CSlingerLndKick22-Dyn04.wav" filechannel="2"/>
+    </sample>
+    <sample name="kick-05">
+      <audiofile channel="kick L" file="../../Wav/CSlingerLndKick22-Dyn05.wav" filechannel="1"/>
+      <audiofile channel="kick R" file="../../Wav/CSlingerLndKick22-Dyn05.wav" filechannel="2"/>
+    </sample>
+    <sample name="kick-06">
+      <audiofile channel="kick L" file="../../Wav/CSlingerLndKick22-Dyn06.wav" filechannel="1"/>
+      <audiofile channel="kick R" file="../../Wav/CSlingerLndKick22-Dyn06.wav" filechannel="2"/>
+    </sample>
+    <sample name="kick-07">
+      <audiofile channel="kick L" file="../../Wav/CSlingerLndKick22-Dyn07.wav" filechannel="1"/>
+      <audiofile channel="kick R" file="../../Wav/CSlingerLndKick22-Dyn07.wav" filechannel="2"/>
+    </sample>
+    <sample name="kick-08">
+      <audiofile channel="kick L" file="../../Wav/CSlingerLndKick22-Dyn08.wav" filechannel="1"/>
+      <audiofile channel="kick R" file="../../Wav/CSlingerLndKick22-Dyn08.wav" filechannel="2"/>
+    </sample>
+    <sample name="kick-09">
+      <audiofile channel="kick L" file="../../Wav/CSlingerLndKick22-Dyn09.wav" filechannel="1"/>
+      <audiofile channel="kick R" file="../../Wav/CSlingerLndKick22-Dyn09.wav" filechannel="2"/>
+    </sample>
+    <sample name="kick-10">
+      <audiofile channel="kick L" file="../../Wav/CSlingerLndKick22-Dyn10.wav" filechannel="1"/>
+      <audiofile channel="kick R" file="../../Wav/CSlingerLndKick22-Dyn10.wav" filechannel="2"/>
+    </sample>
+    <sample name="kick-11">
+      <audiofile channel="kick L" file="../../Wav/CSlingerLndKick22-Dyn11.wav" filechannel="1"/>
+      <audiofile channel="kick R" file="../../Wav/CSlingerLndKick22-Dyn11.wav" filechannel="2"/>
+    </sample>
+    <sample name="kick-12">
+      <audiofile channel="kick L" file="../../Wav/CSlingerLndKick22-Dyn12.wav" filechannel="1"/>
+      <audiofile channel="kick R" file="../../Wav/CSlingerLndKick22-Dyn12.wav" filechannel="2"/>
+    </sample>
+  </samples>
+  <velocities>
+    <!-- 12 layers linear -->
+    <velocity lower="0" upper="0.083333333">
+      <sampleref probability="1.0" name="kick-01"/>
+    </velocity>
+    <velocity lower="0.083333333" upper="0.166666666">
+      <sampleref probability="1.0" name="kick-02"/>
+    </velocity>
+    <velocity lower="0.166666666" upper="0.25">
+      <sampleref probability="1.0" name="kick-03"/>
+    </velocity>
+    <velocity lower="0.25" upper="0.333333333">
+      <sampleref probability="1.0" name="kick-04"/>
+    </velocity>
+    <velocity lower="0.333333333" upper="0.416666666">
+      <sampleref probability="1.0" name="kick-05"/>
+    </velocity>
+    <velocity lower="0.416666666" upper="0.5">
+      <sampleref probability="1.0" name="kick-06"/>
+    </velocity>
+    <velocity lower="0.5" upper="0.583333333">
+      <sampleref probability="1.0" name="kick-07"/>
+    </velocity>
+    <velocity lower="0.583333333" upper="0.666666666">
+      <sampleref probability="1.0" name="kick-08"/>
+    </velocity>
+    <velocity lower="0.666666666" upper="0.75">
+      <sampleref probability="1.0" name="kick-09"/>
+    </velocity>
+    <velocity lower="0.75" upper="0.833333333">
+      <sampleref probability="1.0" name="kick-10"/>
+    </velocity>
+    <velocity lower="0.833333333" upper="0.916666666">
+      <sampleref probability="1.0" name="kick-11"/>
+    </velocity>
+    <velocity lower="0.916666666" upper="1.0">
+      <sampleref probability="1.0" name="kick-12"/>
+    </velocity>
+  </velocities>
+</instrument>

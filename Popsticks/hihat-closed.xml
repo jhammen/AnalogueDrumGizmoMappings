@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<instrument name="hihat-closed">
+  <samples>
+    <!-- left hand hits -->
+    <sample name="hihat-closed-LH01">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdLH01.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdLH01.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-LH02">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdLH02.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdLH02.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-LH03">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdLH03.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdLH03.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-LH04">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdLH04.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdLH04.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-LH05">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdLH05.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdLH05.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-LH06">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdLH06.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdLH06.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-LH07">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdLH07.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdLH07.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-LH08">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdLH08.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdLH08.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-LH09">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdLH09.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdLH09.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-LH10">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdLH10.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdLH10.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-LH11">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdLH11.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdLH11.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-LH12">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdLH12.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdLH12.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-LH13">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdLH13.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdLH13.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-LH14">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdLH14.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdLH14.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-LH15">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdLH15.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdLH15.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-LH16">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdLH16.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdLH16.wav" filechannel="2"/>
+    </sample>
+    <!-- right hand hits -->
+    <sample name="hihat-closed-RH01">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdRH01.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdRH01.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH02">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdRH02.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdRH02.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH03">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdRH03.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdRH03.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH04">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdRH04.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdRH04.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH05">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdRH05.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdRH05.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH06">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdRH06.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdRH06.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH07">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdRH07.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdRH07.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH08">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdRH08.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdRH08.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH09">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdRH09.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdRH09.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH10">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdRH10.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdRH10.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH11">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdRH11.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdRH11.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH12">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdRH12.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdRH12.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH13">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdRH13.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdRH13.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH14">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdRH14.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdRH14.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH15">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdRH15.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdRH15.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH16">
+      <audiofile channel="hihat-closed L" file="../../Wav/CZildjnK14-DynClsdRH16.wav" filechannel="1"/>
+      <audiofile channel="hihat-closed R" file="../../Wav/CZildjnK14-DynClsdRH16.wav" filechannel="2"/>
+    </sample>
+  </samples>
+  <!-- 16 layers linear -->
+  <velocities>
+    <velocity lower="0" upper="0.0625">
+      <sampleref probability="0.5" name="hihat-closed-LH01"/>
+      <sampleref probability="0.5" name="hihat-closed-RH01"/>
+    </velocity>
+    <velocity lower="0.0625" upper="0.125">
+      <sampleref probability="0.5" name="hihat-closed-LH02"/>
+      <sampleref probability="0.5" name="hihat-closed-RH02"/>
+    </velocity>
+    <velocity lower="0.125" upper="0.1875">
+      <sampleref probability="0.5" name="hihat-closed-LH03"/>
+      <sampleref probability="0.5" name="hihat-closed-RH03"/>
+    </velocity>
+    <velocity lower="0.1875" upper="0.25">
+      <sampleref probability="0.5" name="hihat-closed-LH04"/>
+      <sampleref probability="0.5" name="hihat-closed-RH04"/>
+    </velocity>
+    <velocity lower="0.25" upper="0.3125">
+      <sampleref probability="0.5" name="hihat-closed-LH05"/>
+      <sampleref probability="0.5" name="hihat-closed-RH05"/>
+    </velocity>
+    <velocity lower="0.3125" upper="0.375">
+      <sampleref probability="0.5" name="hihat-closed-LH06"/>
+      <sampleref probability="0.5" name="hihat-closed-RH06"/>
+    </velocity>
+    <velocity lower="0.375" upper="0.4375">
+      <sampleref probability="0.5" name="hihat-closed-LH07"/>
+      <sampleref probability="0.5" name="hihat-closed-RH07"/>
+    </velocity>
+    <velocity lower="0.4375" upper="0.5">
+      <sampleref probability="0.5" name="hihat-closed-LH08"/>
+      <sampleref probability="0.5" name="hihat-closed-RH08"/>
+    </velocity>
+    <velocity lower="0.5" upper="0.5625">
+      <sampleref probability="0.5" name="hihat-closed-LH09"/>
+      <sampleref probability="0.5" name="hihat-closed-RH09"/>
+    </velocity>
+    <velocity lower="0.5625" upper="0.625">
+      <sampleref probability="0.5" name="hihat-closed-LH10"/>
+      <sampleref probability="0.5" name="hihat-closed-RH10"/>
+    </velocity>
+    <velocity lower="0.625" upper="0.6875">
+      <sampleref probability="0.5" name="hihat-closed-LH11"/>
+      <sampleref probability="0.5" name="hihat-closed-RH11"/>
+    </velocity>
+    <velocity lower="0.6875" upper="0.75">
+      <sampleref probability="0.5" name="hihat-closed-LH12"/>
+      <sampleref probability="0.5" name="hihat-closed-RH12"/>
+    </velocity>
+    <velocity lower="0.75" upper="0.8125">
+      <sampleref probability="0.5" name="hihat-closed-LH13"/>
+      <sampleref probability="0.5" name="hihat-closed-RH13"/>
+    </velocity>
+    <velocity lower="0.8125" upper="0.875">
+      <sampleref probability="0.5" name="hihat-closed-LH14"/>
+      <sampleref probability="0.5" name="hihat-closed-RH14"/>
+    </velocity>
+    <velocity lower="0.875" upper="0.9375">
+      <sampleref probability="0.5" name="hihat-closed-LH15"/>
+      <sampleref probability="0.5" name="hihat-closed-RH15"/>
+    </velocity>
+    <velocity lower="0.9375" upper="1.0">
+      <sampleref probability="0.5" name="hihat-closed-LH16"/>
+      <sampleref probability="0.5" name="hihat-closed-RH16"/>
+    </velocity>
+  </velocities>
+</instrument>

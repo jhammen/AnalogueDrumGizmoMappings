@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<instrument name="snare-rim">
+  <samples>
+    <sample name="snare-rim-01">
+      <audiofile channel="snare-rim L" file="../../Wav/CSnareRadioKing14-RmClck01.wav" filechannel="1"/>
+      <audiofile channel="snare-rim R" file="../../Wav/CSnareRadioKing14-RmClck01.wav" filechannel="2"/>
+    </sample>
+    <sample name="snare-rim-02">
+      <audiofile channel="snare-rim L" file="../../Wav/CSnareRadioKing14-RmClck02.wav" filechannel="1"/>
+      <audiofile channel="snare-rim R" file="../../Wav/CSnareRadioKing14-RmClck02.wav" filechannel="2"/>
+    </sample>
+    <sample name="snare-rim-03">
+      <audiofile channel="snare-rim L" file="../../Wav/CSnareRadioKing14-RmClck03.wav" filechannel="1"/>
+      <audiofile channel="snare-rim R" file="../../Wav/CSnareRadioKing14-RmClck03.wav" filechannel="2"/>
+    </sample>
+    <sample name="snare-rim-04">
+      <audiofile channel="snare-rim L" file="../../Wav/CSnareRadioKing14-RmClck04.wav" filechannel="1"/>
+      <audiofile channel="snare-rim R" file="../../Wav/CSnareRadioKing14-RmClck04.wav" filechannel="2"/>
+    </sample>
+    <sample name="snare-rim-05">
+      <audiofile channel="snare-rim L" file="../../Wav/CSnareRadioKing14-RmClck05.wav" filechannel="1"/>
+      <audiofile channel="snare-rim R" file="../../Wav/CSnareRadioKing14-RmClck05.wav" filechannel="2"/>
+    </sample>
+    <sample name="snare-rim-06">
+      <audiofile channel="snare-rim L" file="../../Wav/CSnareRadioKing14-RmClck06.wav" filechannel="1"/>
+      <audiofile channel="snare-rim R" file="../../Wav/CSnareRadioKing14-RmClck06.wav" filechannel="2"/>
+    </sample>
+    <sample name="snare-rim-07">
+      <audiofile channel="snare-rim L" file="../../Wav/CSnareRadioKing14-RmClck07.wav" filechannel="1"/>
+      <audiofile channel="snare-rim R" file="../../Wav/CSnareRadioKing14-RmClck07.wav" filechannel="2"/>
+    </sample>
+    <sample name="snare-rim-08">
+      <audiofile channel="snare-rim L" file="../../Wav/CSnareRadioKing14-RmClck08.wav" filechannel="1"/>
+      <audiofile channel="snare-rim R" file="../../Wav/CSnareRadioKing14-RmClck08.wav" filechannel="2"/>
+    </sample>
+  </samples>
+  <velocities>
+    <!-- 8 layers linear -->
+    <velocity lower="0" upper="0.125">
+      <sampleref probability="1.0" name="snare-rim-01"/>
+    </velocity>
+    <velocity lower="0.125" upper="0.25">
+      <sampleref probability="1.0" name="snare-rim-02"/>
+    </velocity>
+    <velocity lower="0.25" upper="0.375">
+      <sampleref probability="1.0" name="snare-rim-03"/>
+    </velocity>
+    <velocity lower="0.375" upper="0.5">
+      <sampleref probability="1.0" name="snare-rim-04"/>
+    </velocity>
+    <velocity lower="0.5" upper="0.625">
+      <sampleref probability="1.0" name="snare-rim-05"/>
+    </velocity>
+    <velocity lower="0.625" upper="0.75">
+      <sampleref probability="1.0" name="snare-rim-06"/>
+    </velocity>
+    <velocity lower="0.75" upper="0.875">
+      <sampleref probability="1.0" name="snare-rim-07"/>
+    </velocity>
+    <velocity lower="0.875" upper="1.0">
+      <sampleref probability="1.0" name="snare-rim-08"/>
+    </velocity>
+  </velocities>
+</instrument>

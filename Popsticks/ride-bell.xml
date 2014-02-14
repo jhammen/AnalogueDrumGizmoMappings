@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<instrument name="ride-bell">
+  <samples>
+    <sample name="ride-bell-01">
+      <audiofile channel="ride-bell L" file="../../Wav/CZildASweetRide-bellRH01.wav" filechannel="1"/>
+      <audiofile channel="ride-bell R" file="../../Wav/CZildASweetRide-bellRH01.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-bell-02">
+      <audiofile channel="ride-bell L" file="../../Wav/CZildASweetRide-bellRH02.wav" filechannel="1"/>
+      <audiofile channel="ride-bell R" file="../../Wav/CZildASweetRide-bellRH02.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-bell-03">
+      <audiofile channel="ride-bell L" file="../../Wav/CZildASweetRide-bellRH03.wav" filechannel="1"/>
+      <audiofile channel="ride-bell R" file="../../Wav/CZildASweetRide-bellRH03.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-bell-04">
+      <audiofile channel="ride-bell L" file="../../Wav/CZildASweetRide-bellRH04.wav" filechannel="1"/>
+      <audiofile channel="ride-bell R" file="../../Wav/CZildASweetRide-bellRH04.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-bell-05">
+      <audiofile channel="ride-bell L" file="../../Wav/CZildASweetRide-bellRH05.wav" filechannel="1"/>
+      <audiofile channel="ride-bell R" file="../../Wav/CZildASweetRide-bellRH05.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-bell-06">
+      <audiofile channel="ride-bell L" file="../../Wav/CZildASweetRide-bellRH06.wav" filechannel="1"/>
+      <audiofile channel="ride-bell R" file="../../Wav/CZildASweetRide-bellRH06.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-bell-07">
+      <audiofile channel="ride-bell L" file="../../Wav/CZildASweetRide-bellRH07.wav" filechannel="1"/>
+      <audiofile channel="ride-bell R" file="../../Wav/CZildASweetRide-bellRH07.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-bell-08">
+      <audiofile channel="ride-bell L" file="../../Wav/CZildASweetRide-bellRH08.wav" filechannel="1"/>
+      <audiofile channel="ride-bell R" file="../../Wav/CZildASweetRide-bellRH08.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-bell-09">
+      <audiofile channel="ride-bell L" file="../../Wav/CZildASweetRide-bellRH09.wav" filechannel="1"/>
+      <audiofile channel="ride-bell R" file="../../Wav/CZildASweetRide-bellRH09.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-bell-10">
+      <audiofile channel="ride-bell L" file="../../Wav/CZildASweetRide-bellRH10.wav" filechannel="1"/>
+      <audiofile channel="ride-bell R" file="../../Wav/CZildASweetRide-bellRH10.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-bell-11">
+      <audiofile channel="ride-bell L" file="../../Wav/CZildASweetRide-bellRH11.wav" filechannel="1"/>
+      <audiofile channel="ride-bell R" file="../../Wav/CZildASweetRide-bellRH11.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-bell-12">
+      <audiofile channel="ride-bell L" file="../../Wav/CZildASweetRide-bellRH12.wav" filechannel="1"/>
+      <audiofile channel="ride-bell R" file="../../Wav/CZildASweetRide-bellRH12.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-bell-13">
+      <audiofile channel="ride-bell L" file="../../Wav/CZildASweetRide-bellRH13.wav" filechannel="1"/>
+      <audiofile channel="ride-bell R" file="../../Wav/CZildASweetRide-bellRH13.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-bell-14">
+      <audiofile channel="ride-bell L" file="../../Wav/CZildASweetRide-bellRH14.wav" filechannel="1"/>
+      <audiofile channel="ride-bell R" file="../../Wav/CZildASweetRide-bellRH14.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-bell-15">
+      <audiofile channel="ride-bell L" file="../../Wav/CZildASweetRide-bellRH15.wav" filechannel="1"/>
+      <audiofile channel="ride-bell R" file="../../Wav/CZildASweetRide-bellRH15.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-bell-16">
+      <audiofile channel="ride-bell L" file="../../Wav/CZildASweetRide-bellRH16.wav" filechannel="1"/>
+      <audiofile channel="ride-bell R" file="../../Wav/CZildASweetRide-bellRH16.wav" filechannel="2"/>
+    </sample>
+  </samples>
+  <!-- 16 layers linear -->
+  <velocities>
+    <velocity lower="0" upper="0.0625">
+      <sampleref probability="1.0" name="ride-bell-01"/>
+    </velocity>
+    <velocity lower="0.0625" upper="0.125">
+      <sampleref probability="1.0" name="ride-bell-02"/>
+    </velocity>
+    <velocity lower="0.125" upper="0.1875">
+      <sampleref probability="1.0" name="ride-bell-03"/>
+    </velocity>
+    <velocity lower="0.1875" upper="0.25">
+      <sampleref probability="1.0" name="ride-bell-04"/>
+    </velocity>
+    <velocity lower="0.25" upper="0.3125">
+      <sampleref probability="1.0" name="ride-bell-05"/>
+    </velocity>
+    <velocity lower="0.3125" upper="0.375">
+      <sampleref probability="1.0" name="ride-bell-06"/>
+    </velocity>
+    <velocity lower="0.375" upper="0.4375">
+      <sampleref probability="1.0" name="ride-bell-07"/>
+    </velocity>
+    <velocity lower="0.4375" upper="0.5">
+      <sampleref probability="1.0" name="ride-bell-08"/>
+    </velocity>
+    <velocity lower="0.5" upper="0.5625">
+      <sampleref probability="1.0" name="ride-bell-09"/>
+    </velocity>
+    <velocity lower="0.5625" upper="0.625">
+      <sampleref probability="1.0" name="ride-bell-10"/>
+    </velocity>
+    <velocity lower="0.625" upper="0.6875">
+      <sampleref probability="1.0" name="ride-bell-11"/>
+    </velocity>
+    <velocity lower="0.6875" upper="0.75">
+      <sampleref probability="1.0" name="ride-bell-12"/>
+    </velocity>
+    <velocity lower="0.75" upper="0.8125">
+      <sampleref probability="1.0" name="ride-bell-13"/>
+    </velocity>
+    <velocity lower="0.8125" upper="0.875">
+      <sampleref probability="1.0" name="ride-bell-14"/>
+    </velocity>
+    <velocity lower="0.875" upper="0.9375">
+      <sampleref probability="1.0" name="ride-bell-15"/>
+    </velocity>
+    <velocity lower="0.9375" upper="1.0">
+      <sampleref probability="1.0" name="ride-bell-16"/>
+    </velocity>
+  </velocities>
+</instrument>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drumkit name="Popsticks" description="Popsticks Kit Stereo Output">
+  <channels>
+    <channel name="L"/>
+    <channel name="R"/>
+  </channels>
+  <instruments>
+    <instrument name="kick" file="kick.xml">
+      <channelmap in="kick L" out="L"/>
+      <channelmap in="kick R" out="R"/>
+    </instrument>
+    <instrument name="snare" file="snare.xml">
+      <channelmap in="snare L" out="L"/>
+      <channelmap in="snare R" out="R"/>
+    </instrument>
+    <instrument name="snare-hard" file="snare-hard.xml">
+      <channelmap in="snare-hard L" out="L"/>
+      <channelmap in="snare-hard R" out="R"/>
+    </instrument>
+    <instrument name="snare-rim" file="snare-rim.xml">
+      <channelmap in="snare-rim L" out="L"/>
+      <channelmap in="snare-rim R" out="R"/>
+    </instrument>
+    <instrument name="hihat-open" file="hihat-open.xml">
+      <channelmap in="hihat-open L" out="L"/>
+      <channelmap in="hihat-open R" out="R"/>
+    </instrument>
+    <instrument name="hihat-semiopen" file="hihat-semiopen.xml">
+      <channelmap in="hihat-semiopen L" out="L"/>
+      <channelmap in="hihat-semiopen R" out="R"/>
+    </instrument>
+    <instrument name="hihat-closed" file="hihat-closed.xml">
+      <channelmap in="hihat-closed L" out="L"/>
+      <channelmap in="hihat-closed R" out="R"/>
+    </instrument>
+    <instrument name="hihat-pedal" file="hihat-pedal.xml">
+      <channelmap in="hihat-pedal L" out="L"/>
+      <channelmap in="hihat-pedal R" out="R"/>
+    </instrument>
+    <instrument name="tom1" file="tom1.xml">
+      <channelmap in="tom1 L" out="L"/>
+      <channelmap in="tom1 R" out="R"/>
+    </instrument>
+    <instrument name="tom2" file="tom2.xml">
+      <channelmap in="tom2 L" out="L"/>
+      <channelmap in="tom2 R" out="R"/>
+    </instrument>
+    <instrument name="crash1" file="crash1.xml">
+      <channelmap in="crash1 L" out="L"/>
+      <channelmap in="crash1 R" out="R"/>
+    </instrument>
+    <instrument name="crash2" file="crash2.xml">
+      <channelmap in="crash2 L" out="L"/>
+      <channelmap in="crash2 R" out="R"/>
+    </instrument>
+    <instrument name="china" file="china.xml">
+      <channelmap in="china L" out="L"/>
+      <channelmap in="china R" out="R"/>
+    </instrument>
+    <instrument name="splash" file="splash.xml">
+      <channelmap in="splash L" out="L"/>
+      <channelmap in="splash R" out="R"/>
+    </instrument>
+    <instrument name="ride" file="ride.xml">
+      <channelmap in="ride L" out="L"/>
+      <channelmap in="ride R" out="R"/>
+    </instrument>
+    <instrument name="ride-bell" file="ride-bell.xml">
+      <channelmap in="ride-bell L" out="L"/>
+      <channelmap in="ride-bell R" out="R"/>
+    </instrument>
+  </instruments>
+</drumkit>

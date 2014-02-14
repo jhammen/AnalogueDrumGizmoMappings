@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<instrument name="crash1">
+  <samples>
+    <sample name="crash1-01">
+      <audiofile channel="crash1 L" file="../../Wav/CZildjnACust15-Dyn02.wav" filechannel="1"/>
+      <audiofile channel="crash1 R" file="../../Wav/CZildjnACust15-Dyn02.wav" filechannel="2"/>
+    </sample>
+    <sample name="crash1-02">
+      <audiofile channel="crash1 L" file="../../Wav/CZildjnACust15-Dyn03.wav" filechannel="1"/>
+      <audiofile channel="crash1 R" file="../../Wav/CZildjnACust15-Dyn03.wav" filechannel="2"/>
+    </sample>
+    <sample name="crash1-03">
+      <audiofile channel="crash1 L" file="../../Wav/CZildjnACust15-Dyn04.wav" filechannel="1"/>
+      <audiofile channel="crash1 R" file="../../Wav/CZildjnACust15-Dyn04.wav" filechannel="2"/>
+    </sample>
+    <sample name="crash1-04">
+      <audiofile channel="crash1 L" file="../../Wav/CZildjnACust15-Dyn05.wav" filechannel="1"/>
+      <audiofile channel="crash1 R" file="../../Wav/CZildjnACust15-Dyn05.wav" filechannel="2"/>
+    </sample>
+    <sample name="crash1-05">
+      <audiofile channel="crash1 L" file="../../Wav/CZildjnACust15-Dyn06.wav" filechannel="1"/>
+      <audiofile channel="crash1 R" file="../../Wav/CZildjnACust15-Dyn06.wav" filechannel="2"/>
+    </sample>
+    <sample name="crash1-06">
+      <audiofile channel="crash1 L" file="../../Wav/CZildjnACust15-Dyn07.wav" filechannel="1"/>
+      <audiofile channel="crash1 R" file="../../Wav/CZildjnACust15-Dyn07.wav" filechannel="2"/>
+    </sample>
+    <sample name="crash1-07">
+      <audiofile channel="crash1 L" file="../../Wav/CZildjnACust15-Dyn08.wav" filechannel="1"/>
+      <audiofile channel="crash1 R" file="../../Wav/CZildjnACust15-Dyn08.wav" filechannel="2"/>
+    </sample>
+    <sample name="crash1-08">
+      <audiofile channel="crash1 L" file="../../Wav/CZildjnACust15-Dyn09.wav" filechannel="1"/>
+      <audiofile channel="crash1 R" file="../../Wav/CZildjnACust15-Dyn09.wav" filechannel="2"/>
+    </sample>
+  </samples>
+  <velocities>
+    <!-- 8 layers linear -->
+    <velocity lower="0" upper="0.125">
+      <sampleref probability="1.0" name="crash1-01"/>
+    </velocity>
+    <velocity lower="0.125" upper="0.25">
+      <sampleref probability="1.0" name="crash1-02"/>
+    </velocity>
+    <velocity lower="0.25" upper="0.375">
+      <sampleref probability="1.0" name="crash1-03"/>
+    </velocity>
+    <velocity lower="0.375" upper="0.5">
+      <sampleref probability="1.0" name="crash1-04"/>
+    </velocity>
+    <velocity lower="0.5" upper="0.625">
+      <sampleref probability="1.0" name="crash1-05"/>
+    </velocity>
+    <velocity lower="0.625" upper="0.75">
+      <sampleref probability="1.0" name="crash1-06"/>
+    </velocity>
+    <velocity lower="0.75" upper="0.875">
+      <sampleref probability="1.0" name="crash1-07"/>
+    </velocity>
+    <velocity lower="0.875" upper="1.0">
+      <sampleref probability="1.0" name="crash1-08"/>
+    </velocity>
+  </velocities>
+</instrument>

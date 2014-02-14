@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<instrument name="ride">
+  <samples>
+    <sample name="ride-01">
+      <audiofile channel="ride L" file="../../Wav/CZildASweetRide-dynRH01.wav" filechannel="1"/>
+      <audiofile channel="ride R" file="../../Wav/CZildASweetRide-dynRH01.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-02">
+      <audiofile channel="ride L" file="../../Wav/CZildASweetRide-dynRH02.wav" filechannel="1"/>
+      <audiofile channel="ride R" file="../../Wav/CZildASweetRide-dynRH02.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-03">
+      <audiofile channel="ride L" file="../../Wav/CZildASweetRide-dynRH03.wav" filechannel="1"/>
+      <audiofile channel="ride R" file="../../Wav/CZildASweetRide-dynRH03.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-04">
+      <audiofile channel="ride L" file="../../Wav/CZildASweetRide-dynRH04.wav" filechannel="1"/>
+      <audiofile channel="ride R" file="../../Wav/CZildASweetRide-dynRH04.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-05">
+      <audiofile channel="ride L" file="../../Wav/CZildASweetRide-dynRH05.wav" filechannel="1"/>
+      <audiofile channel="ride R" file="../../Wav/CZildASweetRide-dynRH05.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-06">
+      <audiofile channel="ride L" file="../../Wav/CZildASweetRide-dynRH06.wav" filechannel="1"/>
+      <audiofile channel="ride R" file="../../Wav/CZildASweetRide-dynRH06.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-07">
+      <audiofile channel="ride L" file="../../Wav/CZildASweetRide-dynRH07.wav" filechannel="1"/>
+      <audiofile channel="ride R" file="../../Wav/CZildASweetRide-dynRH07.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-08">
+      <audiofile channel="ride L" file="../../Wav/CZildASweetRide-dynRH08.wav" filechannel="1"/>
+      <audiofile channel="ride R" file="../../Wav/CZildASweetRide-dynRH08.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-09">
+      <audiofile channel="ride L" file="../../Wav/CZildASweetRide-dynRH09.wav" filechannel="1"/>
+      <audiofile channel="ride R" file="../../Wav/CZildASweetRide-dynRH09.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-10">
+      <audiofile channel="ride L" file="../../Wav/CZildASweetRide-dynRH10.wav" filechannel="1"/>
+      <audiofile channel="ride R" file="../../Wav/CZildASweetRide-dynRH10.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-11">
+      <audiofile channel="ride L" file="../../Wav/CZildASweetRide-dynRH11.wav" filechannel="1"/>
+      <audiofile channel="ride R" file="../../Wav/CZildASweetRide-dynRH11.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-12">
+      <audiofile channel="ride L" file="../../Wav/CZildASweetRide-dynRH12.wav" filechannel="1"/>
+      <audiofile channel="ride R" file="../../Wav/CZildASweetRide-dynRH12.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-13">
+      <audiofile channel="ride L" file="../../Wav/CZildASweetRide-dynRH13.wav" filechannel="1"/>
+      <audiofile channel="ride R" file="../../Wav/CZildASweetRide-dynRH13.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-14">
+      <audiofile channel="ride L" file="../../Wav/CZildASweetRide-dynRH14.wav" filechannel="1"/>
+      <audiofile channel="ride R" file="../../Wav/CZildASweetRide-dynRH14.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-15">
+      <audiofile channel="ride L" file="../../Wav/CZildASweetRide-dynRH15.wav" filechannel="1"/>
+      <audiofile channel="ride R" file="../../Wav/CZildASweetRide-dynRH15.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-16">
+      <audiofile channel="ride L" file="../../Wav/CZildASweetRide-dynRH16.wav" filechannel="1"/>
+      <audiofile channel="ride R" file="../../Wav/CZildASweetRide-dynRH16.wav" filechannel="2"/>
+    </sample>
+  </samples>
+  <!-- 16 layers linear -->
+  <velocities>
+    <velocity lower="0" upper="0.0625">
+      <sampleref probability="1.0" name="ride-01"/>
+    </velocity>
+    <velocity lower="0.0625" upper="0.125">
+      <sampleref probability="1.0" name="ride-02"/>
+    </velocity>
+    <velocity lower="0.125" upper="0.1875">
+      <sampleref probability="1.0" name="ride-03"/>
+    </velocity>
+    <velocity lower="0.1875" upper="0.25">
+      <sampleref probability="1.0" name="ride-04"/>
+    </velocity>
+    <velocity lower="0.25" upper="0.3125">
+      <sampleref probability="1.0" name="ride-05"/>
+    </velocity>
+    <velocity lower="0.3125" upper="0.375">
+      <sampleref probability="1.0" name="ride-06"/>
+    </velocity>
+    <velocity lower="0.375" upper="0.4375">
+      <sampleref probability="1.0" name="ride-07"/>
+    </velocity>
+    <velocity lower="0.4375" upper="0.5">
+      <sampleref probability="1.0" name="ride-08"/>
+    </velocity>
+    <velocity lower="0.5" upper="0.5625">
+      <sampleref probability="1.0" name="ride-09"/>
+    </velocity>
+    <velocity lower="0.5625" upper="0.625">
+      <sampleref probability="1.0" name="ride-10"/>
+    </velocity>
+    <velocity lower="0.625" upper="0.6875">
+      <sampleref probability="1.0" name="ride-11"/>
+    </velocity>
+    <velocity lower="0.6875" upper="0.75">
+      <sampleref probability="1.0" name="ride-12"/>
+    </velocity>
+    <velocity lower="0.75" upper="0.8125">
+      <sampleref probability="1.0" name="ride-13"/>
+    </velocity>
+    <velocity lower="0.8125" upper="0.875">
+      <sampleref probability="1.0" name="ride-14"/>
+    </velocity>
+    <velocity lower="0.875" upper="0.9375">
+      <sampleref probability="1.0" name="ride-15"/>
+    </velocity>
+    <velocity lower="0.9375" upper="1.0">
+      <sampleref probability="1.0" name="ride-16"/>
+    </velocity>
+  </velocities>
+</instrument>

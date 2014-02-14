@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<instrument name="china">
+  <samples>
+    <sample name="china-01">
+      <audiofile channel="china L" file="../../Wav/CZildChnaHigh18-DynRH02.wav" filechannel="1"/>
+      <audiofile channel="china R" file="../../Wav/CZildChnaHigh18-DynRH02.wav" filechannel="2"/>
+    </sample>
+    <sample name="china-02">
+      <audiofile channel="china L" file="../../Wav/CZildChnaHigh18-DynRH03.wav" filechannel="1"/>
+      <audiofile channel="china R" file="../../Wav/CZildChnaHigh18-DynRH03.wav" filechannel="2"/>
+    </sample>
+    <sample name="china-03">
+      <audiofile channel="china L" file="../../Wav/CZildChnaHigh18-DynRH04.wav" filechannel="1"/>
+      <audiofile channel="china R" file="../../Wav/CZildChnaHigh18-DynRH04.wav" filechannel="2"/>
+    </sample>
+    <sample name="china-04">
+      <audiofile channel="china L" file="../../Wav/CZildChnaHigh18-DynRH05.wav" filechannel="1"/>
+      <audiofile channel="china R" file="../../Wav/CZildChnaHigh18-DynRH05.wav" filechannel="2"/>
+    </sample>
+    <sample name="china-05">
+      <audiofile channel="china L" file="../../Wav/CZildChnaHigh18-DynRH06.wav" filechannel="1"/>
+      <audiofile channel="china R" file="../../Wav/CZildChnaHigh18-DynRH06.wav" filechannel="2"/>
+    </sample>
+    <sample name="china-06">
+      <audiofile channel="china L" file="../../Wav/CZildChnaHigh18-DynRH07.wav" filechannel="1"/>
+      <audiofile channel="china R" file="../../Wav/CZildChnaHigh18-DynRH07.wav" filechannel="2"/>
+    </sample>
+    <sample name="china-07">
+      <audiofile channel="china L" file="../../Wav/CZildChnaHigh18-DynRH08.wav" filechannel="1"/>
+      <audiofile channel="china R" file="../../Wav/CZildChnaHigh18-DynRH08.wav" filechannel="2"/>
+    </sample>
+    <sample name="china-08">
+      <audiofile channel="china L" file="../../Wav/CZildChnaHigh18-DynRH09.wav" filechannel="1"/>
+      <audiofile channel="china R" file="../../Wav/CZildChnaHigh18-DynRH09.wav" filechannel="2"/>
+    </sample>
+  </samples>
+  <velocities>
+    <!-- 8 layers linear -->
+    <velocity lower="0" upper="0.125">
+      <sampleref probability="1.0" name="china-01"/>
+    </velocity>
+    <velocity lower="0.125" upper="0.25">
+      <sampleref probability="1.0" name="china-02"/>
+    </velocity>
+    <velocity lower="0.25" upper="0.375">
+      <sampleref probability="1.0" name="china-03"/>
+    </velocity>
+    <velocity lower="0.375" upper="0.5">
+      <sampleref probability="1.0" name="china-04"/>
+    </velocity>
+    <velocity lower="0.5" upper="0.625">
+      <sampleref probability="1.0" name="china-05"/>
+    </velocity>
+    <velocity lower="0.625" upper="0.75">
+      <sampleref probability="1.0" name="china-06"/>
+    </velocity>
+    <velocity lower="0.75" upper="0.875">
+      <sampleref probability="1.0" name="china-07"/>
+    </velocity>
+    <velocity lower="0.875" upper="1.0">
+      <sampleref probability="1.0" name="china-08"/>
+    </velocity>
+  </velocities>
+</instrument>

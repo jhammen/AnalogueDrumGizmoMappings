@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<instrument name="tom1">
+  <samples>
+    <!-- left hand hits -->
+    <sample name="tom1-LH01">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynLH01.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynLH01.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom1-LH02">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynLH02.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynLH02.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom1-LH03">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynLH03.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynLH03.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom1-LH04">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynLH04.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynLH04.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom1-LH05">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynLH05.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynLH05.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom1-LH06">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynLH06.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynLH06.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom1-LH07">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynLH07.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynLH07.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom1-LH08">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynLH08.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynLH08.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom1-LH09">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynLH09.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynLH09.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom1-LH10">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynLH10.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynLH10.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom1-LH11">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynLH11.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynLH11.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom1-LH12">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynLH12.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynLH12.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom1-LH13">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynLH13.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynLH13.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom1-LH14">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynLH14.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynLH14.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom1-LH15">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynLH15.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynLH15.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom1-LH16">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynLH16.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynLH16.wav" filechannel="2"/>
+    </sample>
+    <!-- right hand hits -->
+    <sample name="tom1-RH01">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynRH01.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynRH01.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom1-RH02">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynRH02.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynRH02.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom1-RH03">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynRH03.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynRH03.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom1-RH04">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynRH04.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynRH04.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom1-RH05">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynRH05.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynRH05.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom1-RH06">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynRH06.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynRH06.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom1-RH07">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynRH07.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynRH07.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom1-RH08">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynRH08.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynRH08.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom1-RH09">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynRH09.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynRH09.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom1-RH10">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynRH10.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynRH10.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom1-RH11">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynRH11.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynRH11.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom1-RH12">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynRH12.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynRH12.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom1-RH13">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynRH13.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynRH13.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom1-RH14">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynRH14.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynRH14.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom1-RH15">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynRH15.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynRH15.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom1-RH16">
+      <audiofile channel="tom1 L" file="../../Wav/CSlngerTom1-DynRH16.wav" filechannel="1"/>
+      <audiofile channel="tom1 R" file="../../Wav/CSlngerTom1-DynRH16.wav" filechannel="2"/>
+    </sample>
+  </samples>
+  <!-- 16 layers linear -->
+  <velocities>
+    <velocity lower="0" upper="0.0625">
+      <sampleref probability="0.5" name="tom1-LH01"/>
+      <sampleref probability="0.5" name="tom1-RH01"/>
+    </velocity>
+    <velocity lower="0.0625" upper="0.125">
+      <sampleref probability="0.5" name="tom1-LH02"/>
+      <sampleref probability="0.5" name="tom1-RH02"/>
+    </velocity>
+    <velocity lower="0.125" upper="0.1875">
+      <sampleref probability="0.5" name="tom1-LH03"/>
+      <sampleref probability="0.5" name="tom1-RH03"/>
+    </velocity>
+    <velocity lower="0.1875" upper="0.25">
+      <sampleref probability="0.5" name="tom1-LH04"/>
+      <sampleref probability="0.5" name="tom1-RH04"/>
+    </velocity>
+    <velocity lower="0.25" upper="0.3125">
+      <sampleref probability="0.5" name="tom1-LH05"/>
+      <sampleref probability="0.5" name="tom1-RH05"/>
+    </velocity>
+    <velocity lower="0.3125" upper="0.375">
+      <sampleref probability="0.5" name="tom1-LH06"/>
+      <sampleref probability="0.5" name="tom1-RH06"/>
+    </velocity>
+    <velocity lower="0.375" upper="0.4375">
+      <sampleref probability="0.5" name="tom1-LH07"/>
+      <sampleref probability="0.5" name="tom1-RH07"/>
+    </velocity>
+    <velocity lower="0.4375" upper="0.5">
+      <sampleref probability="0.5" name="tom1-LH08"/>
+      <sampleref probability="0.5" name="tom1-RH08"/>
+    </velocity>
+    <velocity lower="0.5" upper="0.5625">
+      <sampleref probability="0.5" name="tom1-LH09"/>
+      <sampleref probability="0.5" name="tom1-RH09"/>
+    </velocity>
+    <velocity lower="0.5625" upper="0.625">
+      <sampleref probability="0.5" name="tom1-LH10"/>
+      <sampleref probability="0.5" name="tom1-RH10"/>
+    </velocity>
+    <velocity lower="0.625" upper="0.6875">
+      <sampleref probability="0.5" name="tom1-LH11"/>
+      <sampleref probability="0.5" name="tom1-RH11"/>
+    </velocity>
+    <velocity lower="0.6875" upper="0.75">
+      <sampleref probability="0.5" name="tom1-LH12"/>
+      <sampleref probability="0.5" name="tom1-RH12"/>
+    </velocity>
+    <velocity lower="0.75" upper="0.8125">
+      <sampleref probability="0.5" name="tom1-LH13"/>
+      <sampleref probability="0.5" name="tom1-RH13"/>
+    </velocity>
+    <velocity lower="0.8125" upper="0.875">
+      <sampleref probability="0.5" name="tom1-LH14"/>
+      <sampleref probability="0.5" name="tom1-RH14"/>
+    </velocity>
+    <velocity lower="0.875" upper="0.9375">
+      <sampleref probability="0.5" name="tom1-LH15"/>
+      <sampleref probability="0.5" name="tom1-RH15"/>
+    </velocity>
+    <velocity lower="0.9375" upper="1.0">
+      <sampleref probability="0.5" name="tom1-LH16"/>
+      <sampleref probability="0.5" name="tom1-RH16"/>
+    </velocity>
+  </velocities>
+</instrument>

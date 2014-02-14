@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<instrument name="hihat-open">
+  <samples>
+    <sample name="hihat-open-01">
+      <audiofile channel="hihat-open L" file="../../Wav/CZildjnK14-OpnRH01.wav" filechannel="1"/>
+      <audiofile channel="hihat-open R" file="../../Wav/CZildjnK14-OpnRH01.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-open-02">
+      <audiofile channel="hihat-open L" file="../../Wav/CZildjnK14-OpnRH02.wav" filechannel="1"/>
+      <audiofile channel="hihat-open R" file="../../Wav/CZildjnK14-OpnRH02.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-open-03">
+      <audiofile channel="hihat-open L" file="../../Wav/CZildjnK14-OpnRH03.wav" filechannel="1"/>
+      <audiofile channel="hihat-open R" file="../../Wav/CZildjnK14-OpnRH03.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-open-04">
+      <audiofile channel="hihat-open L" file="../../Wav/CZildjnK14-OpnRH04.wav" filechannel="1"/>
+      <audiofile channel="hihat-open R" file="../../Wav/CZildjnK14-OpnRH04.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-open-05">
+      <audiofile channel="hihat-open L" file="../../Wav/CZildjnK14-OpnRH05.wav" filechannel="1"/>
+      <audiofile channel="hihat-open R" file="../../Wav/CZildjnK14-OpnRH05.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-open-06">
+      <audiofile channel="hihat-open L" file="../../Wav/CZildjnK14-OpnRH06.wav" filechannel="1"/>
+      <audiofile channel="hihat-open R" file="../../Wav/CZildjnK14-OpnRH06.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-open-07">
+      <audiofile channel="hihat-open L" file="../../Wav/CZildjnK14-OpnRH07.wav" filechannel="1"/>
+      <audiofile channel="hihat-open R" file="../../Wav/CZildjnK14-OpnRH07.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-open-08">
+      <audiofile channel="hihat-open L" file="../../Wav/CZildjnK14-OpnRH08.wav" filechannel="1"/>
+      <audiofile channel="hihat-open R" file="../../Wav/CZildjnK14-OpnRH08.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-open-09">
+      <audiofile channel="hihat-open L" file="../../Wav/CZildjnK14-OpnRH09.wav" filechannel="1"/>
+      <audiofile channel="hihat-open R" file="../../Wav/CZildjnK14-OpnRH09.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-open-10">
+      <audiofile channel="hihat-open L" file="../../Wav/CZildjnK14-OpnRH10.wav" filechannel="1"/>
+      <audiofile channel="hihat-open R" file="../../Wav/CZildjnK14-OpnRH10.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-open-11">
+      <audiofile channel="hihat-open L" file="../../Wav/CZildjnK14-OpnRH11.wav" filechannel="1"/>
+      <audiofile channel="hihat-open R" file="../../Wav/CZildjnK14-OpnRH11.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-open-12">
+      <audiofile channel="hihat-open L" file="../../Wav/CZildjnK14-OpnRH12.wav" filechannel="1"/>
+      <audiofile channel="hihat-open R" file="../../Wav/CZildjnK14-OpnRH12.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-open-13">
+      <audiofile channel="hihat-open L" file="../../Wav/CZildjnK14-OpnRH13.wav" filechannel="1"/>
+      <audiofile channel="hihat-open R" file="../../Wav/CZildjnK14-OpnRH13.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-open-14">
+      <audiofile channel="hihat-open L" file="../../Wav/CZildjnK14-OpnRH14.wav" filechannel="1"/>
+      <audiofile channel="hihat-open R" file="../../Wav/CZildjnK14-OpnRH14.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-open-15">
+      <audiofile channel="hihat-open L" file="../../Wav/CZildjnK14-OpnRH15.wav" filechannel="1"/>
+      <audiofile channel="hihat-open R" file="../../Wav/CZildjnK14-OpnRH15.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-open-16">
+      <audiofile channel="hihat-open L" file="../../Wav/CZildjnK14-OpnRH16.wav" filechannel="1"/>
+      <audiofile channel="hihat-open R" file="../../Wav/CZildjnK14-OpnRH16.wav" filechannel="2"/>
+    </sample>
+  </samples>
+  <!-- 16 layers linear -->
+  <velocities>
+    <velocity lower="0" upper="0.0625">
+      <sampleref probability="1.0" name="hihat-open-01"/>
+    </velocity>
+    <velocity lower="0.0625" upper="0.125">
+      <sampleref probability="1.0" name="hihat-open-02"/>
+    </velocity>
+    <velocity lower="0.125" upper="0.1875">
+      <sampleref probability="1.0" name="hihat-open-03"/>
+    </velocity>
+    <velocity lower="0.1875" upper="0.25">
+      <sampleref probability="1.0" name="hihat-open-04"/>
+    </velocity>
+    <velocity lower="0.25" upper="0.3125">
+      <sampleref probability="1.0" name="hihat-open-05"/>
+    </velocity>
+    <velocity lower="0.3125" upper="0.375">
+      <sampleref probability="1.0" name="hihat-open-06"/>
+    </velocity>
+    <velocity lower="0.375" upper="0.4375">
+      <sampleref probability="1.0" name="hihat-open-07"/>
+    </velocity>
+    <velocity lower="0.4375" upper="0.5">
+      <sampleref probability="1.0" name="hihat-open-08"/>
+    </velocity>
+    <velocity lower="0.5" upper="0.5625">
+      <sampleref probability="1.0" name="hihat-open-09"/>
+    </velocity>
+    <velocity lower="0.5625" upper="0.625">
+      <sampleref probability="1.0" name="hihat-open-10"/>
+    </velocity>
+    <velocity lower="0.625" upper="0.6875">
+      <sampleref probability="1.0" name="hihat-open-11"/>
+    </velocity>
+    <velocity lower="0.6875" upper="0.75">
+      <sampleref probability="1.0" name="hihat-open-12"/>
+    </velocity>
+    <velocity lower="0.75" upper="0.8125">
+      <sampleref probability="1.0" name="hihat-open-13"/>
+    </velocity>
+    <velocity lower="0.8125" upper="0.875">
+      <sampleref probability="1.0" name="hihat-open-14"/>
+    </velocity>
+    <velocity lower="0.875" upper="0.9375">
+      <sampleref probability="1.0" name="hihat-open-15"/>
+    </velocity>
+    <velocity lower="0.9375" upper="1.0">
+      <sampleref probability="1.0" name="hihat-open-16"/>
+    </velocity>
+  </velocities>
+</instrument>
