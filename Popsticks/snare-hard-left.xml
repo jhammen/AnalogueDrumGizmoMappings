@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<instrument name="snare-hard-left">
+  <samples>
+    <sample name="snare-hard-LH01">
+      <audiofile channel="snare-hard L" file="../../Wav/CSnareRadioKing14-HrdLH01.wav" filechannel="1"/>
+      <audiofile channel="snare-hard R" file="../../Wav/CSnareRadioKing14-HrdLH01.wav" filechannel="2"/>
+    </sample>
+    <sample name="snare-hard-LH02">
+      <audiofile channel="snare-hard L" file="../../Wav/CSnareRadioKing14-HrdLH02.wav" filechannel="1"/>
+      <audiofile channel="snare-hard R" file="../../Wav/CSnareRadioKing14-HrdLH02.wav" filechannel="2"/>
+    </sample>
+    <sample name="snare-hard-LH03">
+      <audiofile channel="snare-hard L" file="../../Wav/CSnareRadioKing14-HrdLH03.wav" filechannel="1"/>
+      <audiofile channel="snare-hard R" file="../../Wav/CSnareRadioKing14-HrdLH03.wav" filechannel="2"/>
+    </sample>
+    <sample name="snare-hard-LH04">
+      <audiofile channel="snare-hard L" file="../../Wav/CSnareRadioKing14-HrdLH04.wav" filechannel="1"/>
+      <audiofile channel="snare-hard R" file="../../Wav/CSnareRadioKing14-HrdLH04.wav" filechannel="2"/>
+    </sample>
+    <sample name="snare-hard-LH05">
+      <audiofile channel="snare-hard L" file="../../Wav/CSnareRadioKing14-HrdLH05.wav" filechannel="1"/>
+      <audiofile channel="snare-hard R" file="../../Wav/CSnareRadioKing14-HrdLH05.wav" filechannel="2"/>
+    </sample>
+    <sample name="snare-hard-LH06">
+      <audiofile channel="snare-hard L" file="../../Wav/CSnareRadioKing14-HrdLH06.wav" filechannel="1"/>
+      <audiofile channel="snare-hard R" file="../../Wav/CSnareRadioKing14-HrdLH06.wav" filechannel="2"/>
+    </sample>
+    <sample name="snare-hard-LH07">
+      <audiofile channel="snare-hard L" file="../../Wav/CSnareRadioKing14-HrdLH07.wav" filechannel="1"/>
+      <audiofile channel="snare-hard R" file="../../Wav/CSnareRadioKing14-HrdLH07.wav" filechannel="2"/>
+    </sample>
+    <sample name="snare-hard-LH08">
+      <audiofile channel="snare-hard L" file="../../Wav/CSnareRadioKing14-HrdLH08.wav" filechannel="1"/>
+      <audiofile channel="snare-hard R" file="../../Wav/CSnareRadioKing14-HrdLH08.wav" filechannel="2"/>
+    </sample>  
+  </samples>
+  <!-- 8 layers linear -->
+  <velocities>
+    <velocity lower="0" upper="0.125">
+      <sampleref probability="1.0" name="snare-hard-LH01"/>
+    </velocity>
+    <velocity lower="0.125" upper="0.25">
+      <sampleref probability="1.0" name="snare-hard-LH02"/>
+    </velocity>
+    <velocity lower="0.25" upper="0.375">
+      <sampleref probability="1.0" name="snare-hard-LH03"/>
+    </velocity>
+    <velocity lower="0.375" upper="0.5">
+      <sampleref probability="1.0" name="snare-hard-LH04"/>
+    </velocity>
+    <velocity lower="0.5" upper="0.625">
+      <sampleref probability="1.0" name="snare-hard-LH05"/>
+    </velocity>
+    <velocity lower="0.625" upper="0.75">
+      <sampleref probability="1.0" name="snare-hard-LH06"/>
+    </velocity>
+    <velocity lower="0.75" upper="0.875">
+      <sampleref probability="1.0" name="snare-hard-LH07"/>
+    </velocity>
+    <velocity lower="0.875" upper="1.0">
+      <sampleref probability="1.0" name="snare-hard-LH08"/>
+    </velocity>
+  </velocities>
+</instrument>

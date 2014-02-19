@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<instrument name="tom2-left">
+  <samples>
+    <sample name="tom2-LH01">
+      <audiofile channel="tom2 L" file="../../Wav/CSlngerTom2-DynLH01.wav" filechannel="1"/>
+      <audiofile channel="tom2 R" file="../../Wav/CSlngerTom2-DynLH01.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-LH02">
+      <audiofile channel="tom2 L" file="../../Wav/CSlngerTom2-DynLH02.wav" filechannel="1"/>
+      <audiofile channel="tom2 R" file="../../Wav/CSlngerTom2-DynLH02.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-LH03">
+      <audiofile channel="tom2 L" file="../../Wav/CSlngerTom2-DynLH03.wav" filechannel="1"/>
+      <audiofile channel="tom2 R" file="../../Wav/CSlngerTom2-DynLH03.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-LH04">
+      <audiofile channel="tom2 L" file="../../Wav/CSlngerTom2-DynLH04.wav" filechannel="1"/>
+      <audiofile channel="tom2 R" file="../../Wav/CSlngerTom2-DynLH04.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-LH05">
+      <audiofile channel="tom2 L" file="../../Wav/CSlngerTom2-DynLH05.wav" filechannel="1"/>
+      <audiofile channel="tom2 R" file="../../Wav/CSlngerTom2-DynLH05.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-LH06">
+      <audiofile channel="tom2 L" file="../../Wav/CSlngerTom2-DynLH06.wav" filechannel="1"/>
+      <audiofile channel="tom2 R" file="../../Wav/CSlngerTom2-DynLH06.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-LH07">
+      <audiofile channel="tom2 L" file="../../Wav/CSlngerTom2-DynLH07.wav" filechannel="1"/>
+      <audiofile channel="tom2 R" file="../../Wav/CSlngerTom2-DynLH07.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-LH08">
+      <audiofile channel="tom2 L" file="../../Wav/CSlngerTom2-DynLH08.wav" filechannel="1"/>
+      <audiofile channel="tom2 R" file="../../Wav/CSlngerTom2-DynLH08.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-LH09">
+      <audiofile channel="tom2 L" file="../../Wav/CSlngerTom2-DynLH09.wav" filechannel="1"/>
+      <audiofile channel="tom2 R" file="../../Wav/CSlngerTom2-DynLH09.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-LH10">
+      <audiofile channel="tom2 L" file="../../Wav/CSlngerTom2-DynLH10.wav" filechannel="1"/>
+      <audiofile channel="tom2 R" file="../../Wav/CSlngerTom2-DynLH10.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-LH11">
+      <audiofile channel="tom2 L" file="../../Wav/CSlngerTom2-DynLH11.wav" filechannel="1"/>
+      <audiofile channel="tom2 R" file="../../Wav/CSlngerTom2-DynLH11.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-LH12">
+      <audiofile channel="tom2 L" file="../../Wav/CSlngerTom2-DynLH12.wav" filechannel="1"/>
+      <audiofile channel="tom2 R" file="../../Wav/CSlngerTom2-DynLH12.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-LH13">
+      <audiofile channel="tom2 L" file="../../Wav/CSlngerTom2-DynLH13.wav" filechannel="1"/>
+      <audiofile channel="tom2 R" file="../../Wav/CSlngerTom2-DynLH13.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-LH14">
+      <audiofile channel="tom2 L" file="../../Wav/CSlngerTom2-DynLH14.wav" filechannel="1"/>
+      <audiofile channel="tom2 R" file="../../Wav/CSlngerTom2-DynLH14.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-LH15">
+      <audiofile channel="tom2 L" file="../../Wav/CSlngerTom2-DynLH15.wav" filechannel="1"/>
+      <audiofile channel="tom2 R" file="../../Wav/CSlngerTom2-DynLH15.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-LH16">
+      <audiofile channel="tom2 L" file="../../Wav/CSlngerTom2-DynLH16.wav" filechannel="1"/>
+      <audiofile channel="tom2 R" file="../../Wav/CSlngerTom2-DynLH16.wav" filechannel="2"/>
+    </sample>
+  </samples>
+  <!-- 16 layers linear -->
+  <velocities>
+    <velocity lower="0" upper="0.0625">
+      <sampleref probability="1.0" name="tom2-LH01"/>
+    </velocity>
+    <velocity lower="0.0625" upper="0.125">
+      <sampleref probability="1.0" name="tom2-LH02"/>
+    </velocity>
+    <velocity lower="0.125" upper="0.1875">
+      <sampleref probability="1.0" name="tom2-LH03"/>
+    </velocity>
+    <velocity lower="0.1875" upper="0.25">
+      <sampleref probability="1.0" name="tom2-LH04"/>
+    </velocity>
+    <velocity lower="0.25" upper="0.3125">
+      <sampleref probability="1.0" name="tom2-LH05"/>
+    </velocity>
+    <velocity lower="0.3125" upper="0.375">
+      <sampleref probability="1.0" name="tom2-LH06"/>
+    </velocity>
+    <velocity lower="0.375" upper="0.4375">
+      <sampleref probability="1.0" name="tom2-LH07"/>
+    </velocity>
+    <velocity lower="0.4375" upper="0.5">
+      <sampleref probability="1.0" name="tom2-LH08"/>
+    </velocity>
+    <velocity lower="0.5" upper="0.5625">
+      <sampleref probability="1.0" name="tom2-LH09"/>
+    </velocity>
+    <velocity lower="0.5625" upper="0.625">
+      <sampleref probability="1.0" name="tom2-LH10"/>
+    </velocity>
+    <velocity lower="0.625" upper="0.6875">
+      <sampleref probability="1.0" name="tom2-LH11"/>
+    </velocity>
+    <velocity lower="0.6875" upper="0.75">
+      <sampleref probability="1.0" name="tom2-LH12"/>
+    </velocity>
+    <velocity lower="0.75" upper="0.8125">
+      <sampleref probability="1.0" name="tom2-LH13"/>
+    </velocity>
+    <velocity lower="0.8125" upper="0.875">
+      <sampleref probability="1.0" name="tom2-LH14"/>
+    </velocity>
+    <velocity lower="0.875" upper="0.9375">
+      <sampleref probability="1.0" name="tom2-LH15"/>
+    </velocity>
+    <velocity lower="0.9375" upper="1.0">
+      <sampleref probability="1.0" name="tom2-LH16"/>
+    </velocity>
+  </velocities>
+</instrument>

@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<instrument name="snare-left">
+  <samples>
+    <sample name="snare-LH01">
+      <audiofile channel="snare L" file="../../Wav/CSnareRadioKing14-DynLH01.wav" filechannel="1"/>
+      <audiofile channel="snare R" file="../../Wav/CSnareRadioKing14-DynLH01.wav" filechannel="2"/>
+    </sample>
+    <sample name="snare-LH02">
+      <audiofile channel="snare L" file="../../Wav/CSnareRadioKing14-DynLH02.wav" filechannel="1"/>
+      <audiofile channel="snare R" file="../../Wav/CSnareRadioKing14-DynLH02.wav" filechannel="2"/>
+    </sample>
+    <sample name="snare-LH03">
+      <audiofile channel="snare L" file="../../Wav/CSnareRadioKing14-DynLH03.wav" filechannel="1"/>
+      <audiofile channel="snare R" file="../../Wav/CSnareRadioKing14-DynLH03.wav" filechannel="2"/>
+    </sample>
+    <sample name="snare-LH04">
+      <audiofile channel="snare L" file="../../Wav/CSnareRadioKing14-DynLH04.wav" filechannel="1"/>
+      <audiofile channel="snare R" file="../../Wav/CSnareRadioKing14-DynLH04.wav" filechannel="2"/>
+    </sample>
+    <sample name="snare-LH05">
+      <audiofile channel="snare L" file="../../Wav/CSnareRadioKing14-DynLH05.wav" filechannel="1"/>
+      <audiofile channel="snare R" file="../../Wav/CSnareRadioKing14-DynLH05.wav" filechannel="2"/>
+    </sample>
+    <sample name="snare-LH06">
+      <audiofile channel="snare L" file="../../Wav/CSnareRadioKing14-DynLH06.wav" filechannel="1"/>
+      <audiofile channel="snare R" file="../../Wav/CSnareRadioKing14-DynLH06.wav" filechannel="2"/>
+    </sample>
+    <sample name="snare-LH07">
+      <audiofile channel="snare L" file="../../Wav/CSnareRadioKing14-DynLH07.wav" filechannel="1"/>
+      <audiofile channel="snare R" file="../../Wav/CSnareRadioKing14-DynLH07.wav" filechannel="2"/>
+    </sample>
+    <sample name="snare-LH08">
+      <audiofile channel="snare L" file="../../Wav/CSnareRadioKing14-DynLH08.wav" filechannel="1"/>
+      <audiofile channel="snare R" file="../../Wav/CSnareRadioKing14-DynLH08.wav" filechannel="2"/>
+    </sample>
+    <sample name="snare-LH09">
+      <audiofile channel="snare L" file="../../Wav/CSnareRadioKing14-DynLH09.wav" filechannel="1"/>
+      <audiofile channel="snare R" file="../../Wav/CSnareRadioKing14-DynLH09.wav" filechannel="2"/>
+    </sample>
+    <sample name="snare-LH10">
+      <audiofile channel="snare L" file="../../Wav/CSnareRadioKing14-DynLH10.wav" filechannel="1"/>
+      <audiofile channel="snare R" file="../../Wav/CSnareRadioKing14-DynLH10.wav" filechannel="2"/>
+    </sample>
+    <sample name="snare-LH11">
+      <audiofile channel="snare L" file="../../Wav/CSnareRadioKing14-DynLH11.wav" filechannel="1"/>
+      <audiofile channel="snare R" file="../../Wav/CSnareRadioKing14-DynLH11.wav" filechannel="2"/>
+    </sample>
+    <sample name="snare-LH12">
+      <audiofile channel="snare L" file="../../Wav/CSnareRadioKing14-DynLH12.wav" filechannel="1"/>
+      <audiofile channel="snare R" file="../../Wav/CSnareRadioKing14-DynLH12.wav" filechannel="2"/>
+    </sample>
+    <sample name="snare-LH13">
+      <audiofile channel="snare L" file="../../Wav/CSnareRadioKing14-DynLH13.wav" filechannel="1"/>
+      <audiofile channel="snare R" file="../../Wav/CSnareRadioKing14-DynLH13.wav" filechannel="2"/>
+    </sample>
+    <sample name="snare-LH14">
+      <audiofile channel="snare L" file="../../Wav/CSnareRadioKing14-DynLH14.wav" filechannel="1"/>
+      <audiofile channel="snare R" file="../../Wav/CSnareRadioKing14-DynLH14.wav" filechannel="2"/>
+    </sample>
+    <sample name="snare-LH15">
+      <audiofile channel="snare L" file="../../Wav/CSnareRadioKing14-DynLH15.wav" filechannel="1"/>
+      <audiofile channel="snare R" file="../../Wav/CSnareRadioKing14-DynLH15.wav" filechannel="2"/>
+    </sample>
+    <sample name="snare-LH16">
+      <audiofile channel="snare L" file="../../Wav/CSnareRadioKing14-DynLH16.wav" filechannel="1"/>
+      <audiofile channel="snare R" file="../../Wav/CSnareRadioKing14-DynLH16.wav" filechannel="2"/>
+    </sample>   
+  </samples>
+  <!-- 16 layers linear -->
+  <velocities>
+    <velocity lower="0" upper="0.0625">
+      <sampleref probability="1.0" name="snare-LH01"/>
+    </velocity>
+    <velocity lower="0.0625" upper="0.125">
+      <sampleref probability="1.0" name="snare-LH02"/>
+    </velocity>
+    <velocity lower="0.125" upper="0.1875">
+      <sampleref probability="1.0" name="snare-LH03"/>
+    </velocity>
+    <velocity lower="0.1875" upper="0.25">
+      <sampleref probability="1.0" name="snare-LH04"/>
+    </velocity>
+    <velocity lower="0.25" upper="0.3125">
+      <sampleref probability="1.0" name="snare-LH05"/>
+    </velocity>
+    <velocity lower="0.3125" upper="0.375">
+      <sampleref probability="1.0" name="snare-LH06"/>
+    </velocity>
+    <velocity lower="0.375" upper="0.4375">
+      <sampleref probability="1.0" name="snare-LH07"/>
+    </velocity>
+    <velocity lower="0.4375" upper="0.5">
+      <sampleref probability="1.0" name="snare-LH08"/>
+    </velocity>
+    <velocity lower="0.5" upper="0.5625">
+      <sampleref probability="1.0" name="snare-LH09"/>
+    </velocity>
+    <velocity lower="0.5625" upper="0.625">
+      <sampleref probability="1.0" name="snare-LH10"/>
+    </velocity>
+    <velocity lower="0.625" upper="0.6875">
+      <sampleref probability="1.0" name="snare-LH11"/>
+    </velocity>
+    <velocity lower="0.6875" upper="0.75">
+      <sampleref probability="1.0" name="snare-LH12"/>
+    </velocity>
+    <velocity lower="0.75" upper="0.8125">
+      <sampleref probability="1.0" name="snare-LH13"/>
+    </velocity>
+    <velocity lower="0.8125" upper="0.875">
+      <sampleref probability="1.0" name="snare-LH14"/>
+    </velocity>
+    <velocity lower="0.875" upper="0.9375">
+      <sampleref probability="1.0" name="snare-LH15"/>
+    </velocity>
+    <velocity lower="0.9375" upper="1.0">
+      <sampleref probability="1.0" name="snare-LH16"/>
+    </velocity>
+  </velocities>
+</instrument>
