@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<midimap>
+	<map note="36" instr="Kick"/>
+	<map note="38" instr="Snare"/>
+	<map note="48" instr="Tom1"/>
+	<map note="45" instr="Tom2"/>
+	<map note="43" instr="Tom3"/>
+	<map note="41" instr="Tom4"/>
+	<map note="42" instr="HihatClosed"/>
+	<map note="44" instr="HihatPedal"/>
+	<map note="46" instr="HihatOpen"/>
+	<map note="51" instr="Ride"/>
+	<map note="53" instr="RideBell"/>
+	<map note="49" instr="Crash1"/>
+	<map note="57" instr="Crash2"/>
+	<map note="55" instr="Splash1"/>
+</midimap>

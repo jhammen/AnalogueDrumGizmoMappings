@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<instrument version="2.0" name="Crash1">
+ <samples>
+    <sample name="crash1-RH01" power="0.125">
+      <audiofile channel="CrashLeft" file="../../wav/CSabAaxStud16Crash-dynRH01.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../wav/CSabAaxStud16Crash-dynRH01.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../wav/RSabAaxStud16Crash-dynRH02.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../wav/RSabAaxStud16Crash-dynRH02.wav" filechannel="2"/>
+    </sample>
+    <sample name="crash1-RH02" power="0.25">
+      <audiofile channel="CrashLeft" file="../../wav/CSabAaxStud16Crash-dynRH02.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../wav/CSabAaxStud16Crash-dynRH02.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../wav/RSabAaxStud16Crash-dynRH03.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../wav/RSabAaxStud16Crash-dynRH03.wav" filechannel="2"/>
+    </sample>
+    <sample name="crash1-RH03" power="0.375">
+      <audiofile channel="CrashLeft" file="../../wav/CSabAaxStud16Crash-dynRH03.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../wav/CSabAaxStud16Crash-dynRH03.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../wav/RSabAaxStud16Crash-dynRH04.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../wav/RSabAaxStud16Crash-dynRH04.wav" filechannel="2"/>
+    </sample>
+    <sample name="crash1-RH04" power="0.5">
+      <audiofile channel="CrashLeft" file="../../wav/CSabAaxStud16Crash-dynRH04.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../wav/CSabAaxStud16Crash-dynRH04.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../wav/RSabAaxStud16Crash-dynRH05.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../wav/RSabAaxStud16Crash-dynRH05.wav" filechannel="2"/>
+    </sample>
+    <sample name="crash1-RH05" power="0.625">
+      <audiofile channel="CrashLeft" file="../../wav/CSabAaxStud16Crash-dynRH05.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../wav/CSabAaxStud16Crash-dynRH05.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../wav/RSabAaxStud16Crash-dynRH06.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../wav/RSabAaxStud16Crash-dynRH06.wav" filechannel="2"/>
+    </sample>
+    <sample name="crash1-RH06" power="0.75">
+      <audiofile channel="CrashLeft" file="../../wav/CSabAaxStud16Crash-dynRH06.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../wav/CSabAaxStud16Crash-dynRH06.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../wav/RSabAaxStud16Crash-dynRH07.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../wav/RSabAaxStud16Crash-dynRH07.wav" filechannel="2"/>
+    </sample>
+    <sample name="crash1-RH07" power="0.875">
+      <audiofile channel="CrashLeft" file="../../wav/CSabAaxStud16Crash-dynRH07.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../wav/CSabAaxStud16Crash-dynRH07.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../wav/RSabAaxStud16Crash-dynRH08.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../wav/RSabAaxStud16Crash-dynRH08.wav" filechannel="2"/>
+    </sample>
+    <sample name="crash1-RH08" power="1.0">
+      <audiofile channel="CrashLeft" file="../../wav/CSabAaxStud16Crash-dynRH08.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../wav/CSabAaxStud16Crash-dynRH08.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../wav/RSabAaxStud16Crash-dynRH09.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../wav/RSabAaxStud16Crash-dynRH09.wav" filechannel="2"/>
+    </sample>
+  </samples>
+</instrument>

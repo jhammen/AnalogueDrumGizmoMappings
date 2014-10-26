@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drumkit name="Rockstock" description="Rockstock Kit w/ Steve Ferrone Snare">
+  <channels>
+    <channel name="RoomLeft"/>
+    <channel name="RoomRight"/>
+    <channel name="KickLeft"/>
+    <channel name="KickRight"/>
+    <channel name="SnareLeft"/>
+    <channel name="SnareRight"/>
+    <channel name="TomsLeft"/>
+    <channel name="TomsRight"/>
+    <channel name="HihatLeft"/>
+    <channel name="HihatRight"/>
+    <channel name="RideLeft"/>
+    <channel name="RideRight"/>
+    <channel name="CrashLeft"/>
+    <channel name="CrashRight"/>
+  </channels>
+  <instruments>
+		<!-- ++++++++++ kick/snare ++++++++++ -->
+    <instrument name="Kick" file="kick.xml">
+      <channelmap in="KickLeft" out="KickLeft"/>
+      <channelmap in="KickRight" out="KickRight"/>      
+      <channelmap in="RoomLeft" out="RoomLeft"/>
+      <channelmap in="RoomRight" out="RoomRight"/>      
+    </instrument>
+    <instrument name="Snare" file="snare.xml">
+      <channelmap in="SnareLeft" out="SnareLeft"/>
+      <channelmap in="SnareRight" out="SnareRight"/>      
+      <channelmap in="RoomLeft" out="RoomLeft"/>
+      <channelmap in="RoomRight" out="RoomRight"/>      
+    </instrument>
+		<!-- ++++++++++ toms ++++++++++ -->
+    <instrument name="Tom1" file="tom1.xml">
+      <channelmap in="TomsLeft" out="TomsLeft"/>
+      <channelmap in="TomsRight" out="TomsRight"/>      
+      <channelmap in="RoomLeft" out="RoomLeft"/>
+      <channelmap in="RoomRight" out="RoomRight"/>      
+    </instrument>
+    <instrument name="Tom2" file="tom2.xml">
+      <channelmap in="TomsLeft" out="TomsLeft"/>
+      <channelmap in="TomsRight" out="TomsRight"/>
+      <channelmap in="RoomLeft" out="RoomLeft"/>
+      <channelmap in="RoomRight" out="RoomRight"/>      
+    </instrument>
+    <instrument name="Tom3" file="tom3.xml">
+      <channelmap in="TomsLeft" out="TomsLeft"/>
+      <channelmap in="TomsRight" out="TomsRight"/>      
+      <channelmap in="RoomLeft" out="RoomLeft"/>
+      <channelmap in="RoomRight" out="RoomRight"/>      
+    </instrument>
+    <instrument name="Tom4" file="tom4.xml">
+      <channelmap in="TomsLeft" out="TomsLeft"/>
+      <channelmap in="TomsRight" out="TomsRight"/>      
+      <channelmap in="RoomLeft" out="RoomLeft"/>
+      <channelmap in="RoomRight" out="RoomRight"/>      
+    </instrument>
+		<!-- ++++++++++ hihats ++++++++++ -->
+    <instrument name="HihatClosed" file="hihat_closed.xml" group="hihat">
+      <channelmap in="HihatLeft" out="HihatLeft"/>
+      <channelmap in="HihatRight" out="HihatRight"/>      
+      <channelmap in="RoomLeft" out="RoomLeft"/>
+      <channelmap in="RoomRight" out="RoomRight"/>      
+    </instrument>
+    <instrument name="HihatPedal" file="hihat_pedal.xml" group="hihat">
+      <channelmap in="HihatLeft" out="HihatLeft"/>
+      <channelmap in="HihatRight" out="HihatRight"/>      
+      <channelmap in="RoomLeft" out="RoomLeft"/>
+      <channelmap in="RoomRight" out="RoomRight"/>      
+    </instrument>
+    <instrument name="HihatOpen" file="hihat_open.xml" group="hihat">
+      <channelmap in="HihatLeft" out="HihatLeft"/>
+      <channelmap in="HihatRight" out="HihatRight"/>      
+      <channelmap in="RoomLeft" out="RoomLeft"/>
+      <channelmap in="RoomRight" out="RoomRight"/>      
+    </instrument>
+		<!-- ++++++++++ ride ++++++++++ -->
+    <instrument name="Ride" file="ride.xml">
+      <channelmap in="RideLeft" out="RideLeft"/>
+      <channelmap in="RideRight" out="RideRight"/>      
+      <channelmap in="RoomLeft" out="RoomLeft"/>
+      <channelmap in="RoomRight" out="RoomRight"/>      
+    </instrument>
+    <instrument name="RideBell" file="ride_bell.xml">
+      <channelmap in="RideLeft" out="RideLeft"/>
+      <channelmap in="RideRight" out="RideRight"/>
+      <channelmap in="RoomLeft" out="RoomLeft"/>
+      <channelmap in="RoomRight" out="RoomRight"/>
+    </instrument>
+		<!-- ++++++++++ crashes/splashes ++++++++++ -->
+    <instrument name="Crash1" file="crash1.xml">
+      <channelmap in="CrashLeft" out="CrashLeft"/>
+      <channelmap in="CrashRight" out="CrashRight"/>
+      <channelmap in="RoomLeft" out="RoomLeft"/>
+      <channelmap in="RoomRight" out="RoomRight"/>      
+    </instrument>
+    <instrument name="Crash2" file="crash2.xml">
+      <channelmap in="CrashLeft" out="CrashLeft"/>
+      <channelmap in="CrashRight" out="CrashRight"/>
+      <channelmap in="RoomLeft" out="RoomLeft"/>
+      <channelmap in="RoomRight" out="RoomRight"/>      
+    </instrument>
+    <instrument name="Splash1" file="splash1.xml">
+      <channelmap in="CrashLeft" out="CrashLeft"/>
+      <channelmap in="CrashRight" out="CrashRight"/>
+      <channelmap in="RoomLeft" out="RoomLeft"/>
+      <channelmap in="RoomRight" out="RoomRight"/>      
+    </instrument>
+  </instruments>
+</drumkit>
