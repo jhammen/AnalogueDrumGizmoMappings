@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<midimap>
+	<map note="36" instr="kick"/>
+
+	<map note="38" instr="snare"/>
+	<map note="37" instr="snare-rim"/>
+	<map note="40" instr="snare-hard"/>
+
+	<map note="48" instr="tom1"/>
+	<map note="45" instr="tom2"/>
+
+	<map note="46" instr="hihat-open"/>
+	<map note="44" instr="hihat-pedal"/>
+	<map note="42" instr="hihat-closed"/>
+
+	<map note="49" instr="crash1"/>
+	<map note="52" instr="china"/>
+	<map note="55" instr="splash"/>
+	<map note="57" instr="crash2"/>
+
+	<map note="51" instr="ride"/>
+	<map note="53" instr="ride-bell"/>
+</midimap>
