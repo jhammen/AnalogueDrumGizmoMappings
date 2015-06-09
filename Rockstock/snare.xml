@@ -2,196 +2,196 @@
 <instrument version="2.0" name="Snare">
  <samples>
     <sample name="snare-LH01" power="0.0625">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynLH01.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynLH01.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynLH01.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynLH01.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynLH01.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynLH01.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynLH01.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynLH01.wav" filechannel="2"/>
     </sample>
     <sample name="snare-RH01" power="0.063">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynRH01.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynRH01.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynRH01.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynRH01.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynRH01.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynRH01.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynRH01.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynRH01.wav" filechannel="2"/>
     </sample>
     <sample name="snare-LH02" power="0.125">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynLH02.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynLH02.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynLH02.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynLH02.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynLH02.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynLH02.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynLH02.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynLH02.wav" filechannel="2"/>
     </sample>
     <sample name="snare-RH02" power="0.1255">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynRH02.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynRH02.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynRH02.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynRH02.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynRH02.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynRH02.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynRH02.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynRH02.wav" filechannel="2"/>
     </sample>
     <sample name="snare-LH03" power="0.1875">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynLH03.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynLH03.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynLH03.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynLH03.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynLH03.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynLH03.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynLH03.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynLH03.wav" filechannel="2"/>
     </sample>
     <sample name="snare-RH03" power="0.188">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynRH03.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynRH03.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynRH03.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynRH03.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynRH03.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynRH03.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynRH03.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynRH03.wav" filechannel="2"/>
     </sample>
     <sample name="snare-LH04" power="0.25">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynLH04.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynLH04.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynLH04.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynLH04.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynLH04.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynLH04.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynLH04.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynLH04.wav" filechannel="2"/>
     </sample>
     <sample name="snare-RH04" power="0.2505">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynRH04.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynRH04.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynRH04.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynRH04.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynRH04.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynRH04.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynRH04.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynRH04.wav" filechannel="2"/>
     </sample>
     <sample name="snare-LH05" power="0.3125">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynLH05.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynLH05.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynLH05.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynLH05.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynLH05.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynLH05.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynLH05.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynLH05.wav" filechannel="2"/>
     </sample>
     <sample name="snare-RH05" power="0.313">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynRH05.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynRH05.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynRH05.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynRH05.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynRH05.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynRH05.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynRH05.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynRH05.wav" filechannel="2"/>
     </sample>
     <sample name="snare-LH06" power="0.375">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynLH06.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynLH06.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynLH06.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynLH06.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynLH06.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynLH06.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynLH06.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynLH06.wav" filechannel="2"/>
     </sample>
     <sample name="snare-RH06" power="0.3755">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynRH06.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynRH06.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynRH06.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynRH06.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynRH06.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynRH06.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynRH06.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynRH06.wav" filechannel="2"/>
     </sample>
     <sample name="snare-LH07" power="0.4375">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynLH07.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynLH07.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynLH07.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynLH07.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynLH07.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynLH07.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynLH07.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynLH07.wav" filechannel="2"/>
     </sample>
     <sample name="snare-RH07" power="0.438">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynRH07.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynRH07.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynRH07.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynRH07.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynRH07.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynRH07.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynRH07.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynRH07.wav" filechannel="2"/>
     </sample>
     <sample name="snare-LH08" power="0.5">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynLH08.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynLH08.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynLH08.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynLH08.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynLH08.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynLH08.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynLH08.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynLH08.wav" filechannel="2"/>
     </sample>
     <sample name="snare-RH08" power="0.5005">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynRH08.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynRH08.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynRH08.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynRH08.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynRH08.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynRH08.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynRH08.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynRH08.wav" filechannel="2"/>
     </sample>
     <sample name="snare-LH09" power="0.5625">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynLH09.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynLH09.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynLH09.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynLH09.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynLH09.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynLH09.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynLH09.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynLH09.wav" filechannel="2"/>
     </sample>
     <sample name="snare-RH09" power="0.563">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynRH09.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynRH09.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynRH09.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynRH09.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynRH09.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynRH09.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynRH09.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynRH09.wav" filechannel="2"/>
     </sample>
     <sample name="snare-LH10" power="0.625">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynLH10.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynLH10.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynLH10.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynLH10.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynLH10.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynLH10.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynLH10.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynLH10.wav" filechannel="2"/>
     </sample>
     <sample name="snare-RH10" power="0.6255">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynRH10.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynRH10.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynRH10.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynRH10.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynRH10.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynRH10.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynRH10.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynRH10.wav" filechannel="2"/>
     </sample>
     <sample name="snare-LH11" power="0.6875">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynLH11.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynLH11.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynLH11.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynLH11.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynLH11.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynLH11.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynLH11.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynLH11.wav" filechannel="2"/>
     </sample>
     <sample name="snare-RH11" power="0.688">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynRH11.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynRH11.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynRH11.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynRH11.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynRH11.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynRH11.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynRH11.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynRH11.wav" filechannel="2"/>
     </sample>
     <sample name="snare-LH12" power="0.75">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynLH12.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynLH12.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynLH12.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynLH12.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynLH12.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynLH12.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynLH12.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynLH12.wav" filechannel="2"/>
     </sample>
     <sample name="snare-RH12" power="0.7505">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynRH12.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynRH12.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynRH12.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynRH12.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynRH12.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynRH12.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynRH12.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynRH12.wav" filechannel="2"/>
     </sample>
     <sample name="snare-LH13" power="0.8125">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynLH13.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynLH13.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynLH13.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynLH13.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynLH13.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynLH13.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynLH13.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynLH13.wav" filechannel="2"/>
     </sample>
     <sample name="snare-RH13" power="0.813">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynRH13.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynRH13.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynRH13.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynRH13.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynRH13.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynRH13.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynRH13.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynRH13.wav" filechannel="2"/>
     </sample>
     <sample name="snare-LH14" power="0.875">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynLH14.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynLH14.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynLH14.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynLH14.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynLH14.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynLH14.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynLH14.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynLH14.wav" filechannel="2"/>
     </sample>
     <sample name="snare-RH14" power="0.8755">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynRH14.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynRH14.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynRH14.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynRH14.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynRH14.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynRH14.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynRH14.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynRH14.wav" filechannel="2"/>
     </sample>
     <sample name="snare-LH15" power="0.9375">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynLH15.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynLH15.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynLH15.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynLH15.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynLH15.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynLH15.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynLH15.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynLH15.wav" filechannel="2"/>
     </sample>
     <sample name="snare-RH15" power="0.938">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynRH15.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynRH15.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynRH15.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynRH15.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynRH15.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynRH15.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynRH15.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynRH15.wav" filechannel="2"/>
     </sample>
     <sample name="snare-LH16" power="1.0">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynLH16.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynLH16.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynLH16.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynLH16.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynLH16.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynLH16.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynLH16.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynLH16.wav" filechannel="2"/>
     </sample>
     <sample name="snare-RH16" power="1.0005">
-      <audiofile channel="SnareLeft" file="../../wav/CPerlStveFrne14-DynRH16.wav" filechannel="1"/>
-      <audiofile channel="SnareRight" file="../../wav/CPerlStveFrne14-DynRH16.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RPerlStveFrne14-DynRH16.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RPerlStveFrne14-DynRH16.wav" filechannel="2"/>
+      <audiofile channel="SnareLeft" file="../../Wav/CPerlStveFrne14-DynRH16.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../Wav/CPerlStveFrne14-DynRH16.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RPerlStveFrne14-DynRH16.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RPerlStveFrne14-DynRH16.wav" filechannel="2"/>
     </sample>
   </samples>
 </instrument>

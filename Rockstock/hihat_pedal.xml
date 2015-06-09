@@ -2,52 +2,52 @@
 <instrument version="2.0" name="HihatPedal">
  <samples>
     <sample name="hihat-pedal-RH01" power="0.125">
-      <audiofile channel="HihatLeft" file="../../wav/CSabAAFusn14-PedalledLF01.wav" filechannel="1"/>
-      <audiofile channel="HihatRight" file="../../wav/CSabAAFusn14-PedalledLF01.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RSabAAFusn14-PedalledLF01.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RSabAAFusn14-PedalledLF01.wav" filechannel="2"/>
+      <audiofile channel="HihatLeft" file="../../Wav/CSabAAFusn14-PedalledLF01.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../Wav/CSabAAFusn14-PedalledLF01.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RSabAAFusn14-PedalledLF01.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RSabAAFusn14-PedalledLF01.wav" filechannel="2"/>
     </sample>
     <sample name="hihat-pedal-RH02" power="0.25">
-      <audiofile channel="HihatLeft" file="../../wav/CSabAAFusn14-PedalledLF02.wav" filechannel="1"/>
-      <audiofile channel="HihatRight" file="../../wav/CSabAAFusn14-PedalledLF02.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RSabAAFusn14-PedalledLF02.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RSabAAFusn14-PedalledLF02.wav" filechannel="2"/>
+      <audiofile channel="HihatLeft" file="../../Wav/CSabAAFusn14-PedalledLF02.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../Wav/CSabAAFusn14-PedalledLF02.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RSabAAFusn14-PedalledLF02.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RSabAAFusn14-PedalledLF02.wav" filechannel="2"/>
     </sample>
     <sample name="hihat-pedal-RH03" power="0.375">
-      <audiofile channel="HihatLeft" file="../../wav/CSabAAFusn14-PedalledLF03.wav" filechannel="1"/>
-      <audiofile channel="HihatRight" file="../../wav/CSabAAFusn14-PedalledLF03.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RSabAAFusn14-PedalledLF03.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RSabAAFusn14-PedalledLF03.wav" filechannel="2"/>
+      <audiofile channel="HihatLeft" file="../../Wav/CSabAAFusn14-PedalledLF03.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../Wav/CSabAAFusn14-PedalledLF03.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RSabAAFusn14-PedalledLF03.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RSabAAFusn14-PedalledLF03.wav" filechannel="2"/>
     </sample>
     <sample name="hihat-pedal-RH04" power="0.5">
-      <audiofile channel="HihatLeft" file="../../wav/CSabAAFusn14-PedalledLF04.wav" filechannel="1"/>
-      <audiofile channel="HihatRight" file="../../wav/CSabAAFusn14-PedalledLF04.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RSabAAFusn14-PedalledLF04.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RSabAAFusn14-PedalledLF04.wav" filechannel="2"/>
+      <audiofile channel="HihatLeft" file="../../Wav/CSabAAFusn14-PedalledLF04.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../Wav/CSabAAFusn14-PedalledLF04.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RSabAAFusn14-PedalledLF04.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RSabAAFusn14-PedalledLF04.wav" filechannel="2"/>
     </sample>
     <sample name="hihat-pedal-RH05" power="0.625">
-      <audiofile channel="HihatLeft" file="../../wav/CSabAAFusn14-PedalledLF05.wav" filechannel="1"/>
-      <audiofile channel="HihatRight" file="../../wav/CSabAAFusn14-PedalledLF05.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RSabAAFusn14-PedalledLF05.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RSabAAFusn14-PedalledLF05.wav" filechannel="2"/>
+      <audiofile channel="HihatLeft" file="../../Wav/CSabAAFusn14-PedalledLF05.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../Wav/CSabAAFusn14-PedalledLF05.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RSabAAFusn14-PedalledLF05.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RSabAAFusn14-PedalledLF05.wav" filechannel="2"/>
     </sample>
     <sample name="hihat-pedal-RH06" power="0.75">
-      <audiofile channel="HihatLeft" file="../../wav/CSabAAFusn14-PedalledLF06.wav" filechannel="1"/>
-      <audiofile channel="HihatRight" file="../../wav/CSabAAFusn14-PedalledLF06.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RSabAAFusn14-PedalledLF06.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RSabAAFusn14-PedalledLF06.wav" filechannel="2"/>
+      <audiofile channel="HihatLeft" file="../../Wav/CSabAAFusn14-PedalledLF06.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../Wav/CSabAAFusn14-PedalledLF06.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RSabAAFusn14-PedalledLF06.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RSabAAFusn14-PedalledLF06.wav" filechannel="2"/>
     </sample>
     <sample name="hihat-pedal-RH07" power="0.875">
-      <audiofile channel="HihatLeft" file="../../wav/CSabAAFusn14-PedalledLF07.wav" filechannel="1"/>
-      <audiofile channel="HihatRight" file="../../wav/CSabAAFusn14-PedalledLF07.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RSabAAFusn14-PedalledLF07.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RSabAAFusn14-PedalledLF07.wav" filechannel="2"/>
+      <audiofile channel="HihatLeft" file="../../Wav/CSabAAFusn14-PedalledLF07.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../Wav/CSabAAFusn14-PedalledLF07.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RSabAAFusn14-PedalledLF07.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RSabAAFusn14-PedalledLF07.wav" filechannel="2"/>
     </sample>
     <sample name="hihat-pedal-RH08" power="1.0">
-      <audiofile channel="HihatLeft" file="../../wav/CSabAAFusn14-PedalledLF08.wav" filechannel="1"/>
-      <audiofile channel="HihatRight" file="../../wav/CSabAAFusn14-PedalledLF08.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RSabAAFusn14-PedalledLF08.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RSabAAFusn14-PedalledLF08.wav" filechannel="2"/>
+      <audiofile channel="HihatLeft" file="../../Wav/CSabAAFusn14-PedalledLF08.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../Wav/CSabAAFusn14-PedalledLF08.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RSabAAFusn14-PedalledLF08.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RSabAAFusn14-PedalledLF08.wav" filechannel="2"/>
     </sample>
   </samples>
 </instrument>

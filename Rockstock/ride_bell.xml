@@ -2,100 +2,100 @@
 <instrument version="2.0" name="RideBell">
  <samples>
     <sample name="ride-bell-01" power="0.0625">
-      <audiofile channel="RideLeft" file="../../wav/CZildjinK22-DynBell01.wav" filechannel="1"/>
-      <audiofile channel="RideRight" file="../../wav/CZildjinK22-DynBell01.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RZildjinK22-DynBell01.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RZildjinK22-DynBell01.wav" filechannel="2"/>
+      <audiofile channel="RideLeft" file="../../Wav/CZildjinK22-DynBell01.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../Wav/CZildjinK22-DynBell01.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RZildjinK22-DynBell01.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RZildjinK22-DynBell01.wav" filechannel="2"/>
     </sample>
     <sample name="ride-bell-02" power="0.125">
-      <audiofile channel="RideLeft" file="../../wav/CZildjinK22-DynBell02.wav" filechannel="1"/>
-      <audiofile channel="RideRight" file="../../wav/CZildjinK22-DynBell02.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RZildjinK22-DynBell02.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RZildjinK22-DynBell02.wav" filechannel="2"/>
+      <audiofile channel="RideLeft" file="../../Wav/CZildjinK22-DynBell02.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../Wav/CZildjinK22-DynBell02.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RZildjinK22-DynBell02.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RZildjinK22-DynBell02.wav" filechannel="2"/>
     </sample>
     <sample name="ride-bell-03" power="0.1875">
-      <audiofile channel="RideLeft" file="../../wav/CZildjinK22-DynBell03.wav" filechannel="1"/>
-      <audiofile channel="RideRight" file="../../wav/CZildjinK22-DynBell03.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RZildjinK22-DynBell03.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RZildjinK22-DynBell03.wav" filechannel="2"/>
+      <audiofile channel="RideLeft" file="../../Wav/CZildjinK22-DynBell03.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../Wav/CZildjinK22-DynBell03.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RZildjinK22-DynBell03.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RZildjinK22-DynBell03.wav" filechannel="2"/>
     </sample>
     <sample name="ride-bell-04" power="0.25">
-      <audiofile channel="RideLeft" file="../../wav/CZildjinK22-DynBell04.wav" filechannel="1"/>
-      <audiofile channel="RideRight" file="../../wav/CZildjinK22-DynBell04.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RZildjinK22-DynBell04.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RZildjinK22-DynBell04.wav" filechannel="2"/>
+      <audiofile channel="RideLeft" file="../../Wav/CZildjinK22-DynBell04.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../Wav/CZildjinK22-DynBell04.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RZildjinK22-DynBell04.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RZildjinK22-DynBell04.wav" filechannel="2"/>
     </sample>
     <sample name="ride-bell-05" power="0.3125">
-      <audiofile channel="RideLeft" file="../../wav/CZildjinK22-DynBell05.wav" filechannel="1"/>
-      <audiofile channel="RideRight" file="../../wav/CZildjinK22-DynBell05.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RZildjinK22-DynBell05.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RZildjinK22-DynBell05.wav" filechannel="2"/>
+      <audiofile channel="RideLeft" file="../../Wav/CZildjinK22-DynBell05.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../Wav/CZildjinK22-DynBell05.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RZildjinK22-DynBell05.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RZildjinK22-DynBell05.wav" filechannel="2"/>
     </sample>
     <sample name="ride-bell-06" power="0.375">
-      <audiofile channel="RideLeft" file="../../wav/CZildjinK22-DynBell06.wav" filechannel="1"/>
-      <audiofile channel="RideRight" file="../../wav/CZildjinK22-DynBell06.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RZildjinK22-DynBell06.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RZildjinK22-DynBell06.wav" filechannel="2"/>
+      <audiofile channel="RideLeft" file="../../Wav/CZildjinK22-DynBell06.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../Wav/CZildjinK22-DynBell06.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RZildjinK22-DynBell06.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RZildjinK22-DynBell06.wav" filechannel="2"/>
     </sample>
     <sample name="ride-bell-07" power="0.4375">
-      <audiofile channel="RideLeft" file="../../wav/CZildjinK22-DynBell07.wav" filechannel="1"/>
-      <audiofile channel="RideRight" file="../../wav/CZildjinK22-DynBell07.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RZildjinK22-DynBell07.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RZildjinK22-DynBell07.wav" filechannel="2"/>
+      <audiofile channel="RideLeft" file="../../Wav/CZildjinK22-DynBell07.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../Wav/CZildjinK22-DynBell07.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RZildjinK22-DynBell07.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RZildjinK22-DynBell07.wav" filechannel="2"/>
     </sample>
     <sample name="ride-bell-08" power="0.5">
-      <audiofile channel="RideLeft" file="../../wav/CZildjinK22-DynBell08.wav" filechannel="1"/>
-      <audiofile channel="RideRight" file="../../wav/CZildjinK22-DynBell08.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RZildjinK22-DynBell08.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RZildjinK22-DynBell08.wav" filechannel="2"/>
+      <audiofile channel="RideLeft" file="../../Wav/CZildjinK22-DynBell08.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../Wav/CZildjinK22-DynBell08.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RZildjinK22-DynBell08.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RZildjinK22-DynBell08.wav" filechannel="2"/>
     </sample>
     <sample name="ride-bell-09" power="0.5625">
-      <audiofile channel="RideLeft" file="../../wav/CZildjinK22-DynBell09.wav" filechannel="1"/>
-      <audiofile channel="RideRight" file="../../wav/CZildjinK22-DynBell09.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RZildjinK22-DynBell09.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RZildjinK22-DynBell09.wav" filechannel="2"/>
+      <audiofile channel="RideLeft" file="../../Wav/CZildjinK22-DynBell09.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../Wav/CZildjinK22-DynBell09.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RZildjinK22-DynBell09.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RZildjinK22-DynBell09.wav" filechannel="2"/>
     </sample>
     <sample name="ride-bell-10" power="0.625">
-      <audiofile channel="RideLeft" file="../../wav/CZildjinK22-DynBell10.wav" filechannel="1"/>
-      <audiofile channel="RideRight" file="../../wav/CZildjinK22-DynBell10.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RZildjinK22-DynBell10.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RZildjinK22-DynBell10.wav" filechannel="2"/>
+      <audiofile channel="RideLeft" file="../../Wav/CZildjinK22-DynBell10.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../Wav/CZildjinK22-DynBell10.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RZildjinK22-DynBell10.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RZildjinK22-DynBell10.wav" filechannel="2"/>
     </sample>
     <sample name="ride-bell-11" power="0.6875">
-      <audiofile channel="RideLeft" file="../../wav/CZildjinK22-DynBell11.wav" filechannel="1"/>
-      <audiofile channel="RideRight" file="../../wav/CZildjinK22-DynBell11.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RZildjinK22-DynBell11.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RZildjinK22-DynBell11.wav" filechannel="2"/>
+      <audiofile channel="RideLeft" file="../../Wav/CZildjinK22-DynBell11.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../Wav/CZildjinK22-DynBell11.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RZildjinK22-DynBell11.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RZildjinK22-DynBell11.wav" filechannel="2"/>
     </sample>
     <sample name="ride-bell-12" power="0.75">
-      <audiofile channel="RideLeft" file="../../wav/CZildjinK22-DynBell12.wav" filechannel="1"/>
-      <audiofile channel="RideRight" file="../../wav/CZildjinK22-DynBell12.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RZildjinK22-DynBell12.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RZildjinK22-DynBell12.wav" filechannel="2"/>
+      <audiofile channel="RideLeft" file="../../Wav/CZildjinK22-DynBell12.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../Wav/CZildjinK22-DynBell12.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RZildjinK22-DynBell12.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RZildjinK22-DynBell12.wav" filechannel="2"/>
     </sample>
     <sample name="ride-bell-13" power="0.8125">
-      <audiofile channel="RideLeft" file="../../wav/CZildjinK22-DynBell13.wav" filechannel="1"/>
-      <audiofile channel="RideRight" file="../../wav/CZildjinK22-DynBell13.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RZildjinK22-DynBell13.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RZildjinK22-DynBell13.wav" filechannel="2"/>
+      <audiofile channel="RideLeft" file="../../Wav/CZildjinK22-DynBell13.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../Wav/CZildjinK22-DynBell13.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RZildjinK22-DynBell13.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RZildjinK22-DynBell13.wav" filechannel="2"/>
     </sample>
     <sample name="ride-bell-14" power="0.875">
-      <audiofile channel="RideLeft" file="../../wav/CZildjinK22-DynBell14.wav" filechannel="1"/>
-      <audiofile channel="RideRight" file="../../wav/CZildjinK22-DynBell14.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RZildjinK22-DynBell14.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RZildjinK22-DynBell14.wav" filechannel="2"/>
+      <audiofile channel="RideLeft" file="../../Wav/CZildjinK22-DynBell14.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../Wav/CZildjinK22-DynBell14.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RZildjinK22-DynBell14.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RZildjinK22-DynBell14.wav" filechannel="2"/>
     </sample>
     <sample name="ride-bell-15" power="0.9375">
-      <audiofile channel="RideLeft" file="../../wav/CZildjinK22-DynBell15.wav" filechannel="1"/>
-      <audiofile channel="RideRight" file="../../wav/CZildjinK22-DynBell15.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RZildjinK22-DynBell15.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RZildjinK22-DynBell15.wav" filechannel="2"/>
+      <audiofile channel="RideLeft" file="../../Wav/CZildjinK22-DynBell15.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../Wav/CZildjinK22-DynBell15.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RZildjinK22-DynBell15.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RZildjinK22-DynBell15.wav" filechannel="2"/>
     </sample>
     <sample name="ride-bell-16" power="1.0">
-      <audiofile channel="RideLeft" file="../../wav/CZildjinK22-DynBell16.wav" filechannel="1"/>
-      <audiofile channel="RideRight" file="../../wav/CZildjinK22-DynBell16.wav" filechannel="2"/>
-      <audiofile channel="RoomLeft" file="../../wav/RZildjinK22-DynBell16.wav" filechannel="1"/>
-      <audiofile channel="RoomRight" file="../../wav/RZildjinK22-DynBell16.wav" filechannel="2"/>
+      <audiofile channel="RideLeft" file="../../Wav/CZildjinK22-DynBell16.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../Wav/CZildjinK22-DynBell16.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../Wav/RZildjinK22-DynBell16.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../Wav/RZildjinK22-DynBell16.wav" filechannel="2"/>
     </sample>
   </samples>
 </instrument>
