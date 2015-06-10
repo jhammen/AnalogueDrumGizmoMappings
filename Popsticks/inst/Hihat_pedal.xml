@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<instrument version="2.0" name="Hihat_pedal">
+ <samples>
+    <sample name="hihat-pedal01" power="0.125">
+      <audiofile channel="HihatLeft"  file="../../../Wav/CZildjnK14-Ped01.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-Ped01.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../wav/RZildjnK14-Ped01.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../wav/RZildjnK14-Ped01.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-pedal02" power="0.25">
+      <audiofile channel="HihatLeft"  file="../../../Wav/CZildjnK14-Ped02.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-Ped02.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../wav/RZildjnK14-Ped02.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../wav/RZildjnK14-Ped02.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-pedal03" power="0.375">
+      <audiofile channel="HihatLeft"  file="../../../Wav/CZildjnK14-Ped03.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-Ped03.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../wav/RZildjnK14-Ped03.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../wav/RZildjnK14-Ped03.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-pedal04" power="0.5">
+      <audiofile channel="HihatLeft"  file="../../../Wav/CZildjnK14-Ped04.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-Ped04.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../wav/RZildjnK14-Ped04.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../wav/RZildjnK14-Ped04.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-pedal05" power="0.625">
+      <audiofile channel="HihatLeft"  file="../../../Wav/CZildjnK14-Ped05.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-Ped05.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../wav/RZildjnK14-Ped05.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../wav/RZildjnK14-Ped05.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-pedal06" power="0.75">
+      <audiofile channel="HihatLeft"  file="../../../Wav/CZildjnK14-Ped06.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-Ped06.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../wav/RZildjnK14-Ped06.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../wav/RZildjnK14-Ped06.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-pedal07" power="0.875">
+      <audiofile channel="HihatLeft"  file="../../../Wav/CZildjnK14-Ped07.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-Ped07.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../wav/RZildjnK14-Ped07.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../wav/RZildjnK14-Ped07.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-pedal08" power="1.0">
+      <audiofile channel="HihatLeft"  file="../../../Wav/CZildjnK14-Ped08.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-Ped08.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../wav/RZildjnK14-Ped08.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../wav/RZildjnK14-Ped08.wav" filechannel="2"/>
+    </sample>
+  </samples>
+</instrument>

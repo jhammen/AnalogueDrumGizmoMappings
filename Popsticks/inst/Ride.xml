@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<instrument version="2.0" name="Ride">
+ <samples>
+    <sample name="ride-dyn01" power="0.0625">
+      <audiofile channel="RideLeft"  file="../../../Wav/CZildASweetRide-dynRH01.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Wav/CZildASweetRide-dynRH01.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RZilASweetRide-DynRH01.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZilASweetRide-DynRH01.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-dyn02" power="0.125">
+      <audiofile channel="RideLeft"  file="../../../Wav/CZildASweetRide-dynRH02.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Wav/CZildASweetRide-dynRH02.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RZilASweetRide-DynRH02.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZilASweetRide-DynRH02.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-dyn03" power="0.1875">
+      <audiofile channel="RideLeft"  file="../../../Wav/CZildASweetRide-dynRH03.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Wav/CZildASweetRide-dynRH03.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RZilASweetRide-DynRH03.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZilASweetRide-DynRH03.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-dyn04" power="0.25">
+      <audiofile channel="RideLeft"  file="../../../Wav/CZildASweetRide-dynRH04.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Wav/CZildASweetRide-dynRH04.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RZilASweetRide-DynRH04.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZilASweetRide-DynRH04.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-dyn05" power="0.3125">
+      <audiofile channel="RideLeft"  file="../../../Wav/CZildASweetRide-dynRH05.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Wav/CZildASweetRide-dynRH05.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RZilASweetRide-DynRH05.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZilASweetRide-DynRH05.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-dyn06" power="0.375">
+      <audiofile channel="RideLeft"  file="../../../Wav/CZildASweetRide-dynRH06.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Wav/CZildASweetRide-dynRH06.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RZilASweetRide-DynRH06.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZilASweetRide-DynRH06.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-dyn07" power="0.4375">
+      <audiofile channel="RideLeft"  file="../../../Wav/CZildASweetRide-dynRH07.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Wav/CZildASweetRide-dynRH07.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RZilASweetRide-DynRH07.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZilASweetRide-DynRH07.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-dyn08" power="0.5">
+      <audiofile channel="RideLeft"  file="../../../Wav/CZildASweetRide-dynRH08.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Wav/CZildASweetRide-dynRH08.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RZilASweetRide-DynRH08.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZilASweetRide-DynRH08.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-dyn09" power="0.5625">
+      <audiofile channel="RideLeft"  file="../../../Wav/CZildASweetRide-dynRH09.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Wav/CZildASweetRide-dynRH09.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RZilASweetRide-DynRH09.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZilASweetRide-DynRH09.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-dyn10" power="0.625">
+      <audiofile channel="RideLeft"  file="../../../Wav/CZildASweetRide-dynRH10.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Wav/CZildASweetRide-dynRH10.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RZilASweetRide-DynRH10.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZilASweetRide-DynRH10.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-dyn11" power="0.6875">
+      <audiofile channel="RideLeft"  file="../../../Wav/CZildASweetRide-dynRH11.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Wav/CZildASweetRide-dynRH11.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RZilASweetRide-DynRH11.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZilASweetRide-DynRH11.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-dyn12" power="0.75">
+      <audiofile channel="RideLeft"  file="../../../Wav/CZildASweetRide-dynRH12.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Wav/CZildASweetRide-dynRH12.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RZilASweetRide-DynRH12.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZilASweetRide-DynRH12.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-dyn13" power="0.8125">
+      <audiofile channel="RideLeft"  file="../../../Wav/CZildASweetRide-dynRH13.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Wav/CZildASweetRide-dynRH13.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RZilASweetRide-DynRH13.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZilASweetRide-DynRH13.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-dyn14" power="0.875">
+      <audiofile channel="RideLeft"  file="../../../Wav/CZildASweetRide-dynRH14.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Wav/CZildASweetRide-dynRH14.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RZilASweetRide-DynRH14.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZilASweetRide-DynRH14.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-dyn15" power="0.9375">
+      <audiofile channel="RideLeft"  file="../../../Wav/CZildASweetRide-dynRH15.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Wav/CZildASweetRide-dynRH15.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RZilASweetRide-DynRH15.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZilASweetRide-DynRH15.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-dyn16" power="1.0">
+      <audiofile channel="RideLeft"  file="../../../Wav/CZildASweetRide-dynRH16.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Wav/CZildASweetRide-dynRH16.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RZilASweetRide-DynRH16.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZilASweetRide-DynRH16.wav" filechannel="2"/>
+    </sample>
+  </samples>
+</instrument>

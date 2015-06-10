@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<instrument version="2.0" name="Splash">
+ <samples>
+    <sample name="splash-dyn01" power="0.125">
+      <audiofile channel="CrashLeft"  file="../../../Wav/CZildjnA8-Dyn01.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Wav/CZildjnA8-Dyn01.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RZildjnA8-Dyn01.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RZildjnA8-Dyn01.wav" filechannel="2"/>
+    </sample>
+    <sample name="splash-dyn02" power="0.25">
+      <audiofile channel="CrashLeft"  file="../../../Wav/CZildjnA8-Dyn02.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Wav/CZildjnA8-Dyn02.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RZildjnA8-Dyn02.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RZildjnA8-Dyn02.wav" filechannel="2"/>
+    </sample>
+    <sample name="splash-dyn03" power="0.375">
+      <audiofile channel="CrashLeft"  file="../../../Wav/CZildjnA8-Dyn03.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Wav/CZildjnA8-Dyn03.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RZildjnA8-Dyn03.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RZildjnA8-Dyn03.wav" filechannel="2"/>
+    </sample>
+    <sample name="splash-dyn04" power="0.5">
+      <audiofile channel="CrashLeft"  file="../../../Wav/CZildjnA8-Dyn04.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Wav/CZildjnA8-Dyn04.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RZildjnA8-Dyn04.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RZildjnA8-Dyn04.wav" filechannel="2"/>
+    </sample>
+    <sample name="splash-dyn05" power="0.625">
+      <audiofile channel="CrashLeft"  file="../../../Wav/CZildjnA8-Dyn05.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Wav/CZildjnA8-Dyn05.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RZildjnA8-Dyn05.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RZildjnA8-Dyn05.wav" filechannel="2"/>
+    </sample>
+    <sample name="splash-dyn06" power="0.75">
+      <audiofile channel="CrashLeft"  file="../../../Wav/CZildjnA8-Dyn06.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Wav/CZildjnA8-Dyn06.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RZildjnA8-Dyn06.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RZildjnA8-Dyn06.wav" filechannel="2"/>
+    </sample>
+    <sample name="splash-dyn07" power="0.875">
+      <audiofile channel="CrashLeft"  file="../../../Wav/CZildjnA8-Dyn07.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Wav/CZildjnA8-Dyn07.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RZildjnA8-Dyn07.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RZildjnA8-Dyn07.wav" filechannel="2"/>
+    </sample>
+    <sample name="splash-dyn08" power="1.0">
+      <audiofile channel="CrashLeft"  file="../../../Wav/CZildjnA8-Dyn08.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Wav/CZildjnA8-Dyn08.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RZildjnA8-Dyn08.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RZildjnA8-Dyn08.wav" filechannel="2"/>
+    </sample>
+  </samples>
+</instrument>

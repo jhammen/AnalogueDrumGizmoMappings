@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<instrument version="2.0" name="Hihat_closed">
+ <samples>
+    <sample name="hihat-closed-LH01" power="0.0625">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdLH01.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdLH01.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdLH01.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdLH01.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH01" power="0.063">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdRH01.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdRH01.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdRH01.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdRH01.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-LH02" power="0.125">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdLH02.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdLH02.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdLH02.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdLH02.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH02" power="0.1255">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdRH02.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdRH02.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdRH02.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdRH02.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-LH03" power="0.1875">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdLH03.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdLH03.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdLH03.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdLH03.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH03" power="0.188">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdRH03.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdRH03.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdRH03.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdRH03.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-LH04" power="0.25">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdLH04.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdLH04.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdLH04.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdLH04.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH04" power="0.2505">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdRH04.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdRH04.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdRH04.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdRH04.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-LH05" power="0.3125">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdLH05.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdLH05.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdLH05.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdLH05.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH05" power="0.313">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdRH05.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdRH05.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdRH05.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdRH05.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-LH06" power="0.375">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdLH06.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdLH06.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdLH06.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdLH06.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH06" power="0.3755">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdRH06.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdRH06.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdRH06.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdRH06.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-LH07" power="0.4375">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdLH07.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdLH07.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdLH07.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdLH07.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH07" power="0.438">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdRH07.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdRH07.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdRH07.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdRH07.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-LH08" power="0.5">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdLH08.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdLH08.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdLH08.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdLH08.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH08" power="0.5005">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdRH08.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdRH08.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdRH08.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdRH08.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-LH09" power="0.5625">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdLH09.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdLH09.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdLH09.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdLH09.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH09" power="0.563">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdRH09.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdRH09.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdRH09.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdRH09.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-LH10" power="0.625">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdLH10.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdLH10.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdLH10.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdLH10.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH10" power="0.6255">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdRH10.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdRH10.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdRH10.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdRH10.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-LH11" power="0.6875">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdLH11.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdLH11.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdLH11.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdLH11.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH11" power="0.688">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdRH11.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdRH11.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdRH11.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdRH11.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-LH12" power="0.75">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdLH12.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdLH12.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdLH12.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdLH12.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH12" power="0.7505">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdRH12.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdRH12.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdRH12.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdRH12.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-LH13" power="0.8125">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdLH13.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdLH13.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdLH13.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdLH13.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH13" power="0.813">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdRH13.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdRH13.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdRH13.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdRH13.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-LH14" power="0.875">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdLH14.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdLH14.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdLH14.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdLH14.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH14" power="0.8755">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdRH14.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdRH14.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdRH14.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdRH14.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-LH15" power="0.9375">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdLH15.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdLH15.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdLH15.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdLH15.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH15" power="0.938">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdRH15.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdRH15.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdRH15.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdRH15.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-LH16" power="1.0">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdLH16.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdLH16.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdLH16.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdLH16.wav" filechannel="2"/>
+    </sample>
+    <sample name="hihat-closed-RH16" power="1.0005">
+      <audiofile channel="HihatLeft" file="../../../Wav/CZildjnK14-DynClsdRH16.wav" filechannel="1"/>
+      <audiofile channel="HihatRight" file="../../../Wav/CZildjnK14-DynClsdRH16.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RZildjnK14-DynClsdRH16.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RZildjnK14-DynClsdRH16.wav" filechannel="2"/>
+    </sample>
+  </samples>
+</instrument>

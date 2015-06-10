@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<instrument version="2.0" name="Kick">
+ <samples>
+    <sample name="kick-dyn01" power="0.0625">
+      <audiofile channel="KickLeft" file="../../../Wav/CSlingerLndKick22-Dyn01.wav" filechannel="1"/>
+      <audiofile channel="KickRight" file="../../../Wav/CSlingerLndKick22-Dyn01.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RSlingerLndKick22-Dyn01.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RSlingerLndKick22-Dyn01.wav" filechannel="2"/>
+    </sample>
+    <sample name="kick-dyn02" power="0.125">
+      <audiofile channel="KickLeft" file="../../../Wav/CSlingerLndKick22-Dyn02.wav" filechannel="1"/>
+      <audiofile channel="KickRight" file="../../../Wav/CSlingerLndKick22-Dyn02.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RSlingerLndKick22-Dyn02.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RSlingerLndKick22-Dyn02.wav" filechannel="2"/>
+    </sample>
+    <sample name="kick-dyn03" power="0.1875">
+      <audiofile channel="KickLeft" file="../../../Wav/CSlingerLndKick22-Dyn03.wav" filechannel="1"/>
+      <audiofile channel="KickRight" file="../../../Wav/CSlingerLndKick22-Dyn03.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RSlingerLndKick22-Dyn03.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RSlingerLndKick22-Dyn03.wav" filechannel="2"/>
+    </sample>
+    <sample name="kick-dyn04" power="0.25">
+      <audiofile channel="KickLeft" file="../../../Wav/CSlingerLndKick22-Dyn04.wav" filechannel="1"/>
+      <audiofile channel="KickRight" file="../../../Wav/CSlingerLndKick22-Dyn04.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RSlingerLndKick22-Dyn04.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RSlingerLndKick22-Dyn04.wav" filechannel="2"/>
+    </sample>
+    <sample name="kick-dyn05" power="0.3125">
+      <audiofile channel="KickLeft" file="../../../Wav/CSlingerLndKick22-Dyn05.wav" filechannel="1"/>
+      <audiofile channel="KickRight" file="../../../Wav/CSlingerLndKick22-Dyn05.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RSlingerLndKick22-Dyn05.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RSlingerLndKick22-Dyn05.wav" filechannel="2"/>
+    </sample>
+    <sample name="kick-dyn06" power="0.375">
+      <audiofile channel="KickLeft" file="../../../Wav/CSlingerLndKick22-Dyn06.wav" filechannel="1"/>
+      <audiofile channel="KickRight" file="../../../Wav/CSlingerLndKick22-Dyn06.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RSlingerLndKick22-Dyn06.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RSlingerLndKick22-Dyn06.wav" filechannel="2"/>
+    </sample>
+    <sample name="kick-dyn07" power="0.4375">
+      <audiofile channel="KickLeft" file="../../../Wav/CSlingerLndKick22-Dyn07.wav" filechannel="1"/>
+      <audiofile channel="KickRight" file="../../../Wav/CSlingerLndKick22-Dyn07.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RSlingerLndKick22-Dyn07.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RSlingerLndKick22-Dyn07.wav" filechannel="2"/>
+    </sample>
+    <sample name="kick-dyn08" power="0.5">
+      <audiofile channel="KickLeft" file="../../../Wav/CSlingerLndKick22-Dyn08.wav" filechannel="1"/>
+      <audiofile channel="KickRight" file="../../../Wav/CSlingerLndKick22-Dyn08.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RSlingerLndKick22-Dyn08.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RSlingerLndKick22-Dyn08.wav" filechannel="2"/>
+    </sample>
+    <sample name="kick-dyn09" power="0.5625">
+      <audiofile channel="KickLeft" file="../../../Wav/CSlingerLndKick22-Dyn09.wav" filechannel="1"/>
+      <audiofile channel="KickRight" file="../../../Wav/CSlingerLndKick22-Dyn09.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RSlingerLndKick22-Dyn09.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RSlingerLndKick22-Dyn09.wav" filechannel="2"/>
+    </sample>
+    <sample name="kick-dyn10" power="0.625">
+      <audiofile channel="KickLeft" file="../../../Wav/CSlingerLndKick22-Dyn10.wav" filechannel="1"/>
+      <audiofile channel="KickRight" file="../../../Wav/CSlingerLndKick22-Dyn10.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RSlingerLndKick22-Dyn10.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RSlingerLndKick22-Dyn10.wav" filechannel="2"/>
+    </sample>
+    <sample name="kick-dyn11" power="0.6875">
+      <audiofile channel="KickLeft" file="../../../Wav/CSlingerLndKick22-Dyn11.wav" filechannel="1"/>
+      <audiofile channel="KickRight" file="../../../Wav/CSlingerLndKick22-Dyn11.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RSlingerLndKick22-Dyn11.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RSlingerLndKick22-Dyn11.wav" filechannel="2"/>
+    </sample>
+    <sample name="kick-dyn12" power="0.75">
+      <audiofile channel="KickLeft" file="../../../Wav/CSlingerLndKick22-Dyn12.wav" filechannel="1"/>
+      <audiofile channel="KickRight" file="../../../Wav/CSlingerLndKick22-Dyn12.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft" file="../../../Wav/RSlingerLndKick22-Dyn12.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RSlingerLndKick22-Dyn12.wav" filechannel="2"/>
+    </sample>
+  </samples>
+</instrument>

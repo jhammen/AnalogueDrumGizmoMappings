@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<instrument version="2.0" name="China">
+ <samples>
+    <sample name="china-dyn01" power="0.125">
+      <audiofile channel="CrashLeft"  file="../../../Wav/CZildChnaHigh18-DynRH01.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Wav/CZildChnaHigh18-DynRH01.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RZildChnaHigh18-DynRH01.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RZildChnaHigh18-DynRH01.wav" filechannel="2"/>
+    </sample>
+    <sample name="china-dyn02" power="0.25">
+      <audiofile channel="CrashLeft"  file="../../../Wav/CZildChnaHigh18-DynRH02.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Wav/CZildChnaHigh18-DynRH02.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RZildChnaHigh18-DynRH02.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RZildChnaHigh18-DynRH02.wav" filechannel="2"/>
+    </sample>
+    <sample name="china-dyn03" power="0.375">
+      <audiofile channel="CrashLeft"  file="../../../Wav/CZildChnaHigh18-DynRH03.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Wav/CZildChnaHigh18-DynRH03.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RZildChnaHigh18-DynRH03.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RZildChnaHigh18-DynRH03.wav" filechannel="2"/>
+    </sample>
+    <sample name="china-dyn04" power="0.5">
+      <audiofile channel="CrashLeft"  file="../../../Wav/CZildChnaHigh18-DynRH04.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Wav/CZildChnaHigh18-DynRH04.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RZildChnaHigh18-DynRH04.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RZildChnaHigh18-DynRH04.wav" filechannel="2"/>
+    </sample>
+    <sample name="china-dyn05" power="0.625">
+      <audiofile channel="CrashLeft"  file="../../../Wav/CZildChnaHigh18-DynRH05.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Wav/CZildChnaHigh18-DynRH05.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RZildChnaHigh18-DynRH05.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RZildChnaHigh18-DynRH05.wav" filechannel="2"/>
+    </sample>
+    <sample name="china-dyn06" power="0.75">
+      <audiofile channel="CrashLeft"  file="../../../Wav/CZildChnaHigh18-DynRH06.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Wav/CZildChnaHigh18-DynRH06.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RZildChnaHigh18-DynRH06.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RZildChnaHigh18-DynRH06.wav" filechannel="2"/>
+    </sample>
+    <sample name="china-dyn07" power="0.875">
+      <audiofile channel="CrashLeft"  file="../../../Wav/CZildChnaHigh18-DynRH07.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Wav/CZildChnaHigh18-DynRH07.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RZildChnaHigh18-DynRH07.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RZildChnaHigh18-DynRH07.wav" filechannel="2"/>
+    </sample>
+    <sample name="china-dyn08" power="1.0">
+      <audiofile channel="CrashLeft"  file="../../../Wav/CZildChnaHigh18-DynRH08.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Wav/CZildChnaHigh18-DynRH08.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RZildChnaHigh18-DynRH08.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RZildChnaHigh18-DynRH08.wav" filechannel="2"/>
+    </sample>
+  </samples>
+</instrument>

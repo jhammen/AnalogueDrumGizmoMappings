@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<instrument version="2.0" name="Crash1">
+ <samples>
+    <sample name="crash1-dyn01" power="0.125">
+      <audiofile channel="CrashLeft"  file="../../../Wav/CZildjnACust15-Dyn01.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Wav/CZildjnACust15-Dyn01.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RZildjnACust15-Dyn01.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RZildjnACust15-Dyn01.wav" filechannel="2"/>
+    </sample>
+    <sample name="crash1-dyn02" power="0.25">
+      <audiofile channel="CrashLeft"  file="../../../Wav/CZildjnACust15-Dyn02.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Wav/CZildjnACust15-Dyn02.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RZildjnACust15-Dyn02.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RZildjnACust15-Dyn02.wav" filechannel="2"/>
+    </sample>
+    <sample name="crash1-dyn03" power="0.375">
+      <audiofile channel="CrashLeft"  file="../../../Wav/CZildjnACust15-Dyn03.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Wav/CZildjnACust15-Dyn03.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RZildjnACust15-Dyn03.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RZildjnACust15-Dyn03.wav" filechannel="2"/>
+    </sample>
+    <sample name="crash1-dyn04" power="0.5">
+      <audiofile channel="CrashLeft"  file="../../../Wav/CZildjnACust15-Dyn04.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Wav/CZildjnACust15-Dyn04.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RZildjnACust15-Dyn04.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RZildjnACust15-Dyn04.wav" filechannel="2"/>
+    </sample>
+    <sample name="crash1-dyn05" power="0.625">
+      <audiofile channel="CrashLeft"  file="../../../Wav/CZildjnACust15-Dyn05.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Wav/CZildjnACust15-Dyn05.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RZildjnACust15-Dyn05.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RZildjnACust15-Dyn05.wav" filechannel="2"/>
+    </sample>
+    <sample name="crash1-dyn06" power="0.75">
+      <audiofile channel="CrashLeft"  file="../../../Wav/CZildjnACust15-Dyn06.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Wav/CZildjnACust15-Dyn06.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RZildjnACust15-Dyn06.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RZildjnACust15-Dyn06.wav" filechannel="2"/>
+    </sample>
+    <sample name="crash1-dyn07" power="0.875">
+      <audiofile channel="CrashLeft"  file="../../../Wav/CZildjnACust15-Dyn07.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Wav/CZildjnACust15-Dyn07.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RZildjnACust15-Dyn07.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RZildjnACust15-Dyn07.wav" filechannel="2"/>
+    </sample>
+    <sample name="crash1-dyn08" power="1.0">
+      <audiofile channel="CrashLeft"  file="../../../Wav/CZildjnACust15-Dyn08.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Wav/CZildjnACust15-Dyn08.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RZildjnACust15-Dyn08.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RZildjnACust15-Dyn08.wav" filechannel="2"/>
+    </sample>
+  </samples>
+</instrument>

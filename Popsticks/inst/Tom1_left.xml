@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<instrument version="2.0" name="Tom1_left">
+ <samples>
+    <sample name="tom1-LH01" power="0.0625">
+      <audiofile channel="TomsLeft"  file="../../../Wav/CSlngerTom1-DynLH01.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../Wav/CSlngerTom1-DynLH01.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RSlngerTom1-DynLH01.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RSlngerTom1-DynLH01.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom1-LH02" power="0.125">
+      <audiofile channel="TomsLeft"  file="../../../Wav/CSlngerTom1-DynLH02.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../Wav/CSlngerTom1-DynLH02.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RSlngerTom1-DynLH02.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RSlngerTom1-DynLH02.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom1-LH03" power="0.1875">
+      <audiofile channel="TomsLeft"  file="../../../Wav/CSlngerTom1-DynLH03.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../Wav/CSlngerTom1-DynLH03.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RSlngerTom1-DynLH03.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RSlngerTom1-DynLH03.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom1-LH04" power="0.25">
+      <audiofile channel="TomsLeft"  file="../../../Wav/CSlngerTom1-DynLH04.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../Wav/CSlngerTom1-DynLH04.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RSlngerTom1-DynLH04.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RSlngerTom1-DynLH04.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom1-LH05" power="0.3125">
+      <audiofile channel="TomsLeft"  file="../../../Wav/CSlngerTom1-DynLH05.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../Wav/CSlngerTom1-DynLH05.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RSlngerTom1-DynLH05.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RSlngerTom1-DynLH05.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom1-LH06" power="0.375">
+      <audiofile channel="TomsLeft"  file="../../../Wav/CSlngerTom1-DynLH06.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../Wav/CSlngerTom1-DynLH06.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RSlngerTom1-DynLH06.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RSlngerTom1-DynLH06.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom1-LH07" power="0.4375">
+      <audiofile channel="TomsLeft"  file="../../../Wav/CSlngerTom1-DynLH07.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../Wav/CSlngerTom1-DynLH07.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RSlngerTom1-DynLH07.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RSlngerTom1-DynLH07.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom1-LH08" power="0.5">
+      <audiofile channel="TomsLeft"  file="../../../Wav/CSlngerTom1-DynLH08.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../Wav/CSlngerTom1-DynLH08.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RSlngerTom1-DynLH08.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RSlngerTom1-DynLH08.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom1-LH09" power="0.5625">
+      <audiofile channel="TomsLeft"  file="../../../Wav/CSlngerTom1-DynLH09.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../Wav/CSlngerTom1-DynLH09.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RSlngerTom1-DynLH09.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RSlngerTom1-DynLH09.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom1-LH10" power="0.625">
+      <audiofile channel="TomsLeft"  file="../../../Wav/CSlngerTom1-DynLH10.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../Wav/CSlngerTom1-DynLH10.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RSlngerTom1-DynLH10.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RSlngerTom1-DynLH10.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom1-LH11" power="0.6875">
+      <audiofile channel="TomsLeft"  file="../../../Wav/CSlngerTom1-DynLH11.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../Wav/CSlngerTom1-DynLH11.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RSlngerTom1-DynLH11.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RSlngerTom1-DynLH11.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom1-LH12" power="0.75">
+      <audiofile channel="TomsLeft"  file="../../../Wav/CSlngerTom1-DynLH12.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../Wav/CSlngerTom1-DynLH12.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RSlngerTom1-DynLH12.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RSlngerTom1-DynLH12.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom1-LH13" power="0.8125">
+      <audiofile channel="TomsLeft"  file="../../../Wav/CSlngerTom1-DynLH13.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../Wav/CSlngerTom1-DynLH13.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RSlngerTom1-DynLH13.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RSlngerTom1-DynLH13.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom1-LH14" power="0.875">
+      <audiofile channel="TomsLeft"  file="../../../Wav/CSlngerTom1-DynLH14.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../Wav/CSlngerTom1-DynLH14.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RSlngerTom1-DynLH14.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RSlngerTom1-DynLH14.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom1-LH15" power="0.9375">
+      <audiofile channel="TomsLeft"  file="../../../Wav/CSlngerTom1-DynLH15.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../Wav/CSlngerTom1-DynLH15.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RSlngerTom1-DynLH15.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RSlngerTom1-DynLH15.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom1-LH16" power="1.0">
+      <audiofile channel="TomsLeft"  file="../../../Wav/CSlngerTom1-DynLH16.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../Wav/CSlngerTom1-DynLH16.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Wav/RSlngerTom1-DynLH16.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Wav/RSlngerTom1-DynLH16.wav" filechannel="2"/>
+    </sample>
+
+  </samples>
+</instrument>

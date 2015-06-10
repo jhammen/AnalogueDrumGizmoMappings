@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<midimap>
+        <map note="33" instr="Kick"/>
+        <map note="31" instr="Snare"/>
+
+        <map note="48" instr="Crash2"/>
+        <map note="47" instr="Tom1"/>
+        <map note="43" instr="Tom2"/>
+
+        <map note="42" instr="Hihat_closed"/>
+        <map note="44" instr="Hihat_pedal"/>
+        <map note="46" instr="Hihat_open"/>
+
+        <map note="51" instr="Ride_bell"/>
+
+        <map note="49" instr="Crash1"/>
+</midimap>

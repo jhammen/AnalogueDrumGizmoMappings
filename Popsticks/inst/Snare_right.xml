@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<instrument version="2.0" name="Snare_right">
+ <samples>
+    <sample name="snare-RH01" power="0.0625">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CSnareRadioKing14-DynRH01.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CSnareRadioKing14-DynRH01.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RSnareRadioKing14-DynRH01.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RSnareRadioKing14-DynRH01.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="snare-RH02" power="0.125">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CSnareRadioKing14-DynRH02.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CSnareRadioKing14-DynRH02.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RSnareRadioKing14-DynRH02.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RSnareRadioKing14-DynRH02.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="snare-RH03" power="0.1875">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CSnareRadioKing14-DynRH03.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CSnareRadioKing14-DynRH03.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RSnareRadioKing14-DynRH03.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RSnareRadioKing14-DynRH03.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="snare-RH04" power="0.25">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CSnareRadioKing14-DynRH04.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CSnareRadioKing14-DynRH04.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RSnareRadioKing14-DynRH04.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RSnareRadioKing14-DynRH04.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="snare-RH05" power="0.3125">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CSnareRadioKing14-DynRH05.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CSnareRadioKing14-DynRH05.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RSnareRadioKing14-DynRH05.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RSnareRadioKing14-DynRH05.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="snare-RH06" power="0.375">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CSnareRadioKing14-DynRH06.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CSnareRadioKing14-DynRH06.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RSnareRadioKing14-DynRH06.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RSnareRadioKing14-DynRH06.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="snare-RH07" power="0.4375">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CSnareRadioKing14-DynRH07.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CSnareRadioKing14-DynRH07.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RSnareRadioKing14-DynRH07.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RSnareRadioKing14-DynRH07.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="snare-RH08" power="0.5">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CSnareRadioKing14-DynRH08.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CSnareRadioKing14-DynRH08.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RSnareRadioKing14-DynRH08.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RSnareRadioKing14-DynRH08.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="snare-RH09" power="0.5625">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CSnareRadioKing14-DynRH09.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CSnareRadioKing14-DynRH09.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RSnareRadioKing14-DynRH09.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RSnareRadioKing14-DynRH09.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="snare-RH10" power="0.625">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CSnareRadioKing14-DynRH10.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CSnareRadioKing14-DynRH10.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RSnareRadioKing14-DynRH10.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RSnareRadioKing14-DynRH10.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="snare-RH11" power="0.6875">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CSnareRadioKing14-DynRH11.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CSnareRadioKing14-DynRH11.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RSnareRadioKing14-DynRH11.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RSnareRadioKing14-DynRH11.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="snare-RH12" power="0.75">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CSnareRadioKing14-DynRH12.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CSnareRadioKing14-DynRH12.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RSnareRadioKing14-DynRH12.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RSnareRadioKing14-DynRH12.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="snare-RH13" power="0.8125">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CSnareRadioKing14-DynRH13.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CSnareRadioKing14-DynRH13.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RSnareRadioKing14-DynRH13.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RSnareRadioKing14-DynRH13.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="snare-RH14" power="0.875">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CSnareRadioKing14-DynRH14.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CSnareRadioKing14-DynRH14.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RSnareRadioKing14-DynRH14.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RSnareRadioKing14-DynRH14.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="snare-RH15" power="0.9375">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CSnareRadioKing14-DynRH15.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CSnareRadioKing14-DynRH15.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RSnareRadioKing14-DynRH15.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RSnareRadioKing14-DynRH15.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="snare-RH16" power="1.0">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CSnareRadioKing14-DynRH16.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CSnareRadioKing14-DynRH16.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RSnareRadioKing14-DynRH16.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RSnareRadioKing14-DynRH16.wav" filechannel="2"/>
+    </sample>
+  </samples>
+</instrument>

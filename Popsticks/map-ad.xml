@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Midimap for AD samples, should be used with the PopsticksFull kit -->
+<midimap>
+        <map note="36" instr="Kick"/>
+
+        <map note="39" instr="Snare_left"/>
+        <map note="40" instr="Snare_right"/>
+        <map note="41" instr="Snare_hard_left"/>
+        <map note="42" instr="Snare_hard_right"/>
+        <map note="43" instr="Snare_rim"/>
+
+        <map note="45" instr="Tom1_left"/>
+        <map note="46" instr="Tom1_right"/>
+        <map note="47" instr="Tom2_left"/>
+        <map note="48" instr="Tom2_right"/>
+
+        <map note="54" instr="Hihat_closed_right"/>
+        <map note="55" instr="Hihat_closed_left"/>
+        <map note="56" instr="Hihat_semiopen"/>
+        <map note="57" instr="Hihat_open"/>
+        <map note="58" instr="Hihat_pedal"/>
+
+        <map note="60" instr="Splash"/>
+        <map note="62" instr="Crash1"/>
+        <map note="63" instr="Crash2"/>
+        <map note="66" instr="China"/>
+
+        <map note="69" instr="Ride"/>
+        <map note="70" instr="Ride_bell"/>
+</midimap>
