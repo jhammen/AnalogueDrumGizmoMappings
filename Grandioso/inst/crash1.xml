@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<instrument version="2.0" name="Crash1">
+ <samples>
+
+    <sample name="crash1-RHE01" power="0.05">
+      <audiofile channel="CrashLeft"  file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_01.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_01.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_01.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_01.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="crash1-RHE02" power="0.1">
+      <audiofile channel="CrashLeft"  file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_02.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_02.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_02.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_02.wav" filechannel="2"/>
+    </sample>
+
+     <sample name="crash1-RHE03" power="0.15">
+      <audiofile channel="CrashLeft"  file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_03.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_03.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_03.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_03.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="crash1-RHE04" power="0.2">
+      <audiofile channel="CrashLeft"  file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_04.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_04.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_04.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_04.wav" filechannel="2"/>
+    </sample>
+
+     <sample name="crash1-RHE05" power="0.25">
+      <audiofile channel="CrashLeft"  file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_05.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_05.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_05.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_05.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="crash1-RHE06" power="0.3">
+      <audiofile channel="CrashLeft"  file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_06.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_06.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_06.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_06.wav" filechannel="2"/>
+    </sample>
+
+     <sample name="crash1-RHE07" power="0.35">
+      <audiofile channel="CrashLeft"  file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_07.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_07.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_07.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_07.wav" filechannel="2"/>
+    </sample>
+
+      <sample name="crash1-RHE08" power="0.4">
+      <audiofile channel="CrashLeft"  file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_08.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_08.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_08.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_08.wav" filechannel="2"/>
+    </sample>
+   <sample name="crash1-RHE09" power="0.45">
+      <audiofile channel="CrashLeft"  file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_09.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_09.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_09.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_09.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="crash1-RHE10" power="0.5">
+      <audiofile channel="CrashLeft"  file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_10.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_10.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_10.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_10.wav" filechannel="2"/>
+    </sample>
+    <sample name="crash1-RHE11" power="0.55">
+      <audiofile channel="CrashLeft"  file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_11.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_11.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_11.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_11.wav" filechannel="2"/>
+    </sample>
+    <sample name="crash1-RHE12" power="0.6">
+      <audiofile channel="CrashLeft"  file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_12.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_12.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_12.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_12.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="crash1-RHE13" power="0.65">
+      <audiofile channel="CrashLeft"  file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_13.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_13.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_13.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_13.wav" filechannel="2"/>
+    </sample>
+
+      <sample name="crash1-RHE14" power="0.7">
+      <audiofile channel="CrashLeft"  file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_14.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_14.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_14.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_14.wav" filechannel="2"/>
+    </sample>
+
+     <sample name="crash1-RHE15" power="0.75">
+      <audiofile channel="CrashLeft"  file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_15.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_15.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_15.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_15.wav" filechannel="2"/>
+    </sample>
+
+     <sample name="crash1-RHE16" power="0.8">
+      <audiofile channel="CrashLeft"  file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_16.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_16.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_16.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_16.wav" filechannel="2"/>
+    </sample>
+
+     <sample name="crash1-RHE17" power="0.85">
+      <audiofile channel="CrashLeft"  file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_17.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_17.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_17.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_17.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="crash1-RHE18" power="0.9">
+      <audiofile channel="CrashLeft"  file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_18.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_18.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_18.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_18.wav" filechannel="2"/>
+    </sample>
+
+     <sample name="crash1-RHE19" power="0.95">
+      <audiofile channel="CrashLeft"  file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_19.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_19.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_19.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_19.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="crash1-RHE20" power="1.0">
+      <audiofile channel="CrashLeft"  file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_20.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_20.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_20.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_20.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="crash1-RHE21" power="1.05">
+      <audiofile channel="CrashLeft"  file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_21.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_21.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_21.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_21.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="crash1-RHE22" power="1.1">
+      <audiofile channel="CrashLeft"  file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_22.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_22.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_22.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_22.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="crash1-RHE23" power="1.15">
+      <audiofile channel="CrashLeft"  file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_23.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_23.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_23.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_23.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="crash1-RHE24" power="1.2">
+      <audiofile channel="CrashLeft"  file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_24.wav" filechannel="1"/>
+      <audiofile channel="CrashRight" file="../../../Grandioso/Samples/Close Mics/Crash 1/AD26_CM_Crash1_RHE_24.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_24.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Crash 1/AD26_RM_Crash1_RHE_24.wav" filechannel="2"/>
+    </sample>
+  </samples>
+</instrument>

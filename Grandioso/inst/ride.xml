@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<instrument version="2.0" name="Ride">
+ <samples>
+
+    <sample name="ride-BOW01" power="0.05">
+      <audiofile channel="RideLeft"  file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_01.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_01.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_01.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_01.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="ride-BOW02" power="0.1">
+      <audiofile channel="RideLeft"  file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_02.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_02.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_02.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_02.wav" filechannel="2"/>
+    </sample>
+
+     <sample name="ride-BOW03" power="0.15">
+      <audiofile channel="RideLeft"  file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_03.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_03.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_03.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_03.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="ride-BOW04" power="0.2">
+      <audiofile channel="RideLeft"  file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_04.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_04.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_04.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_04.wav" filechannel="2"/>
+    </sample>
+
+     <sample name="ride-BOW05" power="0.25">
+      <audiofile channel="RideLeft"  file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_05.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_05.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_05.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_05.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="ride-BOW06" power="0.3">
+      <audiofile channel="RideLeft"  file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_06.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_06.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_06.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_06.wav" filechannel="2"/>
+    </sample>
+
+     <sample name="ride-BOW07" power="0.35">
+      <audiofile channel="RideLeft"  file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_07.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_07.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_07.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_07.wav" filechannel="2"/>
+    </sample>
+
+      <sample name="ride-BOW08" power="0.4">
+      <audiofile channel="RideLeft"  file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_08.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_08.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_08.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_08.wav" filechannel="2"/>
+    </sample>
+   <sample name="ride-BOW09" power="0.45">
+      <audiofile channel="RideLeft"  file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_09.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_09.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_09.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_09.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="ride-BOW10" power="0.5">
+      <audiofile channel="RideLeft"  file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_10.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_10.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_10.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_10.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-BOW11" power="0.55">
+      <audiofile channel="RideLeft"  file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_11.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_11.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_11.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_11.wav" filechannel="2"/>
+    </sample>
+    <sample name="ride-BOW12" power="0.6">
+      <audiofile channel="RideLeft"  file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_12.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_12.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_12.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_12.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="ride-BOW13" power="0.65">
+      <audiofile channel="RideLeft"  file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_13.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_13.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_13.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_13.wav" filechannel="2"/>
+    </sample>
+
+      <sample name="ride-BOW14" power="0.7">
+      <audiofile channel="RideLeft"  file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_14.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_14.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_14.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_14.wav" filechannel="2"/>
+    </sample>
+
+     <sample name="ride-BOW15" power="0.75">
+      <audiofile channel="RideLeft"  file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_15.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_15.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_15.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_15.wav" filechannel="2"/>
+    </sample>
+
+     <sample name="ride-BOW16" power="0.8">
+      <audiofile channel="RideLeft"  file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_16.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_16.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_16.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_16.wav" filechannel="2"/>
+    </sample>
+
+     <sample name="ride-BOW17" power="0.85">
+      <audiofile channel="RideLeft"  file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_17.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_17.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_17.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_17.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="ride-BOW18" power="0.9">
+      <audiofile channel="RideLeft"  file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_18.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_18.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_18.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_18.wav" filechannel="2"/>
+    </sample>
+
+     <sample name="ride-BOW19" power="0.95">
+      <audiofile channel="RideLeft"  file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_19.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_19.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_19.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_19.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="ride-BOW20" power="1.0">
+      <audiofile channel="RideLeft"  file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_20.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_20.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_20.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_20.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="ride-BOW21" power="1.05">
+      <audiofile channel="RideLeft"  file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_21.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_21.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_21.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_21.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="ride-BOW22" power="1.1">
+      <audiofile channel="RideLeft"  file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_22.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_22.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_22.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_22.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="ride-BOW23" power="1.15">
+      <audiofile channel="RideLeft"  file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_23.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_23.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_23.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_23.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="ride-BOW24" power="1.2">
+      <audiofile channel="RideLeft"  file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_24.wav" filechannel="1"/>
+      <audiofile channel="RideRight" file="../../../Grandioso/Samples/Close Mics/Ride/AD26_CM_Ride_MIDL_24.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_24.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../Grandioso/Samples/Room Mics/Ride/AD26_RM_Ride_MIDL_24.wav" filechannel="2"/>
+    </sample>
+  </samples>
+</instrument>
