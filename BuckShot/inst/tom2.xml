@@ -1,0 +1,412 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<instrument version="2.0" name="Tom2">
+ <samples>
+    <sample name="tom2-LH01" power="0.025">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_01.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_01.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_01.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_01.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_01.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_01.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-RH01" power="0.05">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_01.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_01.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_01.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_01.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_01.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_01.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom2-LH02" power="0.075">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_02.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_02.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_02.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_02.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_02.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_02.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-RH02" power="0.1">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_02.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_02.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_02.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_02.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_02.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_02.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom2-LH03" power="0.125">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_03.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_03.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_03.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_03.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_03.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_03.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-RH03" power="0.15">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_03.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_03.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_03.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_03.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_03.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_03.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom2-LH04" power="0.175">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_04.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_04.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_04.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_04.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_04.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_04.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-RH04" power="0.2">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_04.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_04.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_04.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_04.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_04.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_04.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom2-LH05" power="0.225">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_05.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_05.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_05.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_05.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_05.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_05.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-RH05" power="0.25">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_05.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_05.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_05.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_05.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_05.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_05.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom2-LH06" power="0.275">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_06.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_06.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_06.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_06.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_06.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_06.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-RH06" power="0.3">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_06.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_06.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_06.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_06.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_06.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_06.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom2-LH07" power="0.325">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_07.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_07.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_07.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_07.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_07.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_07.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-RH07" power="0.35">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_07.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_07.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_07.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_07.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_07.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_07.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom2-LH08" power="0.375">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_08.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_08.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_08.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_08.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_08.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_08.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-RH08" power="0.4">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_08.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_08.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_08.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_08.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_08.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_08.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom2-LH09" power="0.425">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_09.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_09.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_09.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_09.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_09.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_09.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-RH09" power="0.45">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_09.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_09.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_09.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_09.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_09.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_09.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom2-LH10" power="0.475">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_10.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_10.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_10.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_10.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_10.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_10.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-RH10" power="0.5">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_10.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_10.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_10.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_10.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_10.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_10.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom2-LH11" power="0.525">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_11.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_11.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_11.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_11.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_11.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_11.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-RH11" power="0.55">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_11.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_11.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_11.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_11.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_11.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_11.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom2-LH12" power="0.575">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_12.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_12.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_12.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_12.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_12.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_12.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-RH12" power="0.6">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_12.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_12.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_12.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_12.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_12.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_12.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom2-LH13" power="0.625">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_13.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_13.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_13.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_13.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_13.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_13.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-RH13" power="0.65">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_13.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_13.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_13.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_13.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_13.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_13.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom2-LH14" power="0.675">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_14.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_14.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_14.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_14.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_14.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_14.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-RH14" power="0.7">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_14.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_14.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_14.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_14.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_14.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_14.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom2-LH15" power="0.725">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_15.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_15.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_15.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_15.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_15.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_15.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-RH15" power="0.75">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_15.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_15.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_15.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_15.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_15.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_15.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom2-LH16" power="0.775">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_16.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_16.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_16.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_16.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_16.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_16.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-RH16" power="0.8">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_16.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_16.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_16.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_16.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_16.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_16.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom2-LH17" power="0.825">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_17.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_17.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_17.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_17.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_17.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_17.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-RH17" power="0.85">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_17.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_17.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_17.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_17.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_17.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_17.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom2-LH18" power="0.875">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_18.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_18.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_18.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_18.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_18.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_18.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-RH18" power="0.9">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_18.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_18.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_18.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_18.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_18.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_18.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom2-LH19" power="0.925">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_19.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_19.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_19.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_19.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_19.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_19.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-RH19" power="0.95">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_19.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_19.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_19.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_19.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_19.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_19.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom2-LH20" power="0.975">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_20.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_20.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_20.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_20.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_20.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_20.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-RH20" power="1.0">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_20.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_20.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_20.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_20.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_20.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_20.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom2-LH21" power="1.025">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_21.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_21.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_21.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_21.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_21.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_21.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-RH21" power="1.05">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_21.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_21.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_21.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_21.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_21.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_21.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom2-LH22" power="1.075">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_22.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_22.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_22.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_22.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_22.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_22.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-RH22" power="1.1">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_22.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_22.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_22.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_22.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_22.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_22.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom2-LH23" power="1.125">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_23.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_23.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_23.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_23.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_23.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_23.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-RH23" power="1.15">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_23.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_23.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_23.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_23.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_23.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_23.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="tom2-LH24" power="1.175">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_24.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_LHCN_24.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_24.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_LHCN_24.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_24.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_LHCN_24.wav" filechannel="2"/>
+    </sample>
+    <sample name="tom2-RH24" power="1.2">
+      <audiofile channel="TomsLeft"  file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_24.wav" filechannel="1"/>
+      <audiofile channel="TomsRight" file="../../../BuckShot/Samples/Close Mics/Tom 2/AD28_CM_FLOORTOM1_RHCN_24.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"  file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_24.wav" filechannel="1"/>
+      <audiofile channel="RoomRight" file="../../../BuckShot/Samples/Room Mics/Tom 2/AD28_RM_FLOORTOM1_RHCN_24.wav" filechannel="2"/>
+      <audiofile channel="OverLeft"  file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_24.wav" filechannel="1"/>
+      <audiofile channel="OverRight" file="../../../BuckShot/Samples/Overhead Mics/Tom 2/AD28_OH_FLOORTOM1_RHCN_24.wav" filechannel="2"/>
+    </sample>
+  </samples>
+</instrument>
