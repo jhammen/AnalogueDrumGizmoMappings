@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<instrument version="2.0" name="Snare_left">
+<instrument version="2.0" name="SnareLeft">
  <samples>
     <sample name="snare-LH01" power="0.0625">
       <audiofile channel="SnareLeft"  file="../../../Wav/CSnareRadioKing14-DynLH01.wav" filechannel="1"/>

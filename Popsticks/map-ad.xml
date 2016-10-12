@@ -3,11 +3,11 @@
 <midimap>
         <map note="36" instr="Kick"/>
 
-        <map note="39" instr="Snare_left"/>
-        <map note="40" instr="Snare_right"/>
-        <map note="41" instr="Snare_hard_left"/>
-        <map note="42" instr="Snare_hard_right"/>
-        <map note="43" instr="Snare_rim"/>
+        <map note="39" instr="SnareLeft"/>
+        <map note="40" instr="SnareRight"/>
+        <map note="41" instr="SnareHardLeft"/>
+        <map note="42" instr="SnareHardRight"/>
+        <map note="43" instr="SnareRim"/>
 
         <map note="45" instr="Tom1_left"/>
         <map note="46" instr="Tom1_right"/>

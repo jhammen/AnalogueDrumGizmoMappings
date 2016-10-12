@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<drumkit name="Popstick" description="Popstick Kit Default">
+<drumkit name="Popsticks" description="Popsticks Kit w/ Gretsch Snare">
     <channels>
         <channel name="RoomLeft"/>
         <channel name="RoomRight"/>
@@ -26,31 +26,31 @@
       <channelmap in="RoomLeft" out="RoomLeft"/>
       <channelmap in="RoomRight" out="RoomRight"/>
     </instrument>
-    <instrument name="SnareLeft" file="inst/Snare_left.xml">
+    <instrument name="SnareLeft" file="../SnareCity/inst/gretsch_left.xml">
       <channelmap in="SnareLeft" out="SnareLeft"/>
       <channelmap in="SnareRight" out="SnareRight"/>
       <channelmap in="RoomLeft" out="RoomLeft"/>
       <channelmap in="RoomRight" out="RoomRight"/>
     </instrument>
-    <instrument name="SnareRight" file="inst/Snare_right.xml">
+    <instrument name="SnareRight" file="../SnareCity/inst/gretsch_right.xml">
       <channelmap in="SnareLeft" out="SnareLeft"/>
       <channelmap in="SnareRight" out="SnareRight"/>
       <channelmap in="RoomLeft" out="RoomLeft"/>
       <channelmap in="RoomRight" out="RoomRight"/>
     </instrument>
-    <instrument name="SnareRim" file="inst/Snare_rim.xml">
+    <instrument name="SnareRim" file="../SnareCity/inst/gretsch_rim.xml">
       <channelmap in="SnareLeft" out="SnareLeft"/>
       <channelmap in="SnareRight" out="SnareRight"/>
       <channelmap in="RoomLeft" out="RoomLeft"/>
       <channelmap in="RoomRight" out="RoomRight"/>
     </instrument>
-    <instrument name="SnareHardLeft" file="inst/Snare_hard_left.xml">
+    <instrument name="SnareHardLeft" file="../SnareCity/inst/gretsch_hard_left.xml">
       <channelmap in="SnareLeft" out="SnareLeft"/>
       <channelmap in="SnareRight" out="SnareRight"/>
       <channelmap in="RoomLeft" out="RoomLeft"/>
       <channelmap in="RoomRight" out="RoomRight"/>
     </instrument>
-    <instrument name="SnareHardRight" file="inst/Snare_hard_right.xml">
+    <instrument name="SnareHardRight" file="../SnareCity/inst/gretsch_hard_right.xml">
       <channelmap in="SnareLeft" out="SnareLeft"/>
       <channelmap in="SnareRight" out="SnareRight"/>
       <channelmap in="RoomLeft" out="RoomLeft"/>

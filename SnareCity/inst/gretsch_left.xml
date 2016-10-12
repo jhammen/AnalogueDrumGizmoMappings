@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<instrument version="2.0" name="SnareLeft">
+ <samples>
+    <sample name="snare-LH01" power="0.0625">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CGretch13-DynLH01.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CGretch13-DynLH01.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RGretch13-DynLH01.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RGretch13-DynLH01.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="snare-LH02" power="0.125">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CGretch13-DynLH02.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CGretch13-DynLH02.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RGretch13-DynLH02.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RGretch13-DynLH02.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="snare-LH03" power="0.1875">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CGretch13-DynLH03.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CGretch13-DynLH03.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RGretch13-DynLH03.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RGretch13-DynLH03.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="snare-LH04" power="0.25">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CGretch13-DynLH04.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CGretch13-DynLH04.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RGretch13-DynLH04.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RGretch13-DynLH04.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="snare-LH05" power="0.3125">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CGretch13-DynLH05.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CGretch13-DynLH05.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RGretch13-DynLH05.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RGretch13-DynLH05.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="snare-LH06" power="0.375">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CGretch13-DynLH06.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CGretch13-DynLH06.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RGretch13-DynLH06.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RGretch13-DynLH06.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="snare-LH07" power="0.4375">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CGretch13-DynLH07.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CGretch13-DynLH07.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RGretch13-DynLH07.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RGretch13-DynLH07.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="snare-LH08" power="0.5">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CGretch13-DynLH08.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CGretch13-DynLH08.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RGretch13-DynLH08.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RGretch13-DynLH08.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="snare-LH09" power="0.5625">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CGretch13-DynLH09.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CGretch13-DynLH09.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RGretch13-DynLH09.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RGretch13-DynLH09.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="snare-LH10" power="0.625">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CGretch13-DynLH10.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CGretch13-DynLH10.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RGretch13-DynLH10.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RGretch13-DynLH10.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="snare-LH11" power="0.6875">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CGretch13-DynLH11.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CGretch13-DynLH11.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RGretch13-DynLH11.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RGretch13-DynLH11.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="snare-LH12" power="0.75">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CGretch13-DynLH12.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CGretch13-DynLH12.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RGretch13-DynLH12.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RGretch13-DynLH12.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="snare-LH13" power="0.8125">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CGretch13-DynLH13.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CGretch13-DynLH13.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RGretch13-DynLH13.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RGretch13-DynLH13.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="snare-LH14" power="0.875">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CGretch13-DynLH14.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CGretch13-DynLH14.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RGretch13-DynLH14.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RGretch13-DynLH14.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="snare-LH15" power="0.9375">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CGretch13-DynLH15.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CGretch13-DynLH15.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RGretch13-DynLH15.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RGretch13-DynLH15.wav" filechannel="2"/>
+    </sample>
+
+    <sample name="snare-LH16" power="1.0">
+      <audiofile channel="SnareLeft"  file="../../../Wav/CGretch13-DynLH16.wav" filechannel="1"/>
+      <audiofile channel="SnareRight" file="../../../Wav/CGretch13-DynLH16.wav" filechannel="2"/>
+      <audiofile channel="RoomLeft"   file="../../../Wav/RGretch13-DynLH16.wav" filechannel="1"/>
+      <audiofile channel="RoomRight"  file="../../../Wav/RGretch13-DynLH16.wav" filechannel="2"/>
+    </sample>
+  </samples>
+</instrument>
